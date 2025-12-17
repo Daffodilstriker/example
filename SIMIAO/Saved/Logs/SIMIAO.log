@@ -4055,3 +4055,1885 @@ Sampler Limit: 32
 [2025.12.17-14.27.35:235][737]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3990.001709
 [2025.12.17-14.27.36:570][741]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
 [2025.12.17-14.27.36:570][741]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3991.001465, Update Interval: 345.821716
+[2025.12.17-14.33.55:723][ 52]Cmd: TRANSACTION UNDO
+[2025.12.17-14.33.55:723][ 52]LogEditorTransaction: Undo 删除元素
+[2025.12.17-14.34.07:130][236]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4381.891113
+[2025.12.17-14.34.07:582][243]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.17-14.34.07:582][243]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4382.278809, Update Interval: 355.607178
+[2025.12.17-14.34.24:067][552]LogUObjectHash: Compacting FUObjectHashTables data took   0.49ms
+[2025.12.17-14.34.25:074][552]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Waveborne_The_Sacred_Threshold/map/LV_Waveborne_The_Sacred_Threshold_Auto5
+[2025.12.17-14.34.25:074][552]LogSavePackage: Moving 'D:/苦逼美术生/游戏小专业/毕设/github/example/SIMIAO/Saved/LV_Waveborne_The_Sacred_ThresholF811932C44E706E850DEAB8BB523F673.tmp' to 'D:/苦逼美术生/游戏小专业/毕设/github/example/SIMIAO/Saved/Autosaves/Game/Waveborne_The_Sacred_Threshold/map/LV_Waveborne_The_Sacred_Threshold_Auto5.umap'
+[2025.12.17-14.34.25:078][552]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Waveborne_The_Sacred_Threshold/map/LV_Waveborne_The_Sacred_Threshold' took 1.023
+[2025.12.17-14.34.25:078][552]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.023
+[2025.12.17-14.34.55:614][972]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.17-14.34.55:614][972]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.34.55:614][972]MaterialEditorStats: Shader Count: 0
+[2025.12.17-14.34.55:614][972]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2025.12.17-14.34.55:701][973]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-14.34.55:701][973]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.34.55:701][973]MaterialEditorStats: Shader Count: 2
+[2025.12.17-14.34.55:701][973]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2025.12.17-14.35.01:403][122]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.17-14.35.01:403][122]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.35.01:403][122]MaterialEditorStats: Shader Count: 0
+[2025.12.17-14.35.01:403][122]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2025.12.17-14.35.01:590][125]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-14.35.01:590][125]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.35.01:590][125]MaterialEditorStats: Shader Count: 2
+[2025.12.17-14.35.01:590][125]MaterialEditorStats: Preshaders: 3  (3 param fetches, 5 ops)
+[2025.12.17-14.35.07:233][276]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.17-14.35.07:233][276]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.35.07:233][276]MaterialEditorStats: Shader Count: 0
+[2025.12.17-14.35.07:233][276]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.35.09:338][308]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-14.35.09:338][308]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.35.09:338][308]MaterialEditorStats: Shader Count: 2
+[2025.12.17-14.35.09:338][308]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.35.14:310][385]LogMaterialEditor: Saving and Compiling material NewMaterial
+[2025.12.17-14.35.15:982][385]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.12.17-14.35.16:143][385]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.12.17-14.35.16:157][385]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.17-14.35.16:224][385]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial] ([1] browsable assets)...
+[2025.12.17-14.35.20:461][385]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial.NewMaterial]
+[2025.12.17-14.35.20:461][385]OBJ SavePackage: Finished generating thumbnails for package [/Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial]
+[2025.12.17-14.35.20:465][385]LogSavePackage: Moving output files for package: /Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial
+[2025.12.17-14.35.20:465][385]LogSavePackage: Moving 'D:/苦逼美术生/游戏小专业/毕设/github/example/SIMIAO/Saved/NewMaterialC338C1184042742C8F8C22B272B46150.tmp' to 'D:/苦逼美术生/游戏小专业/毕设/github/example/SIMIAO/Content/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial.uasset'
+[2025.12.17-14.35.20:472][385]LogFileHelpers: InternalPromptForCheckoutAndSave took 4.31 sec (total: 26.9 sec)
+[2025.12.17-14.35.20:538][385]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.17-14.35.20:538][385]LogContentValidation: Enabled validators:
+[2025.12.17-14.35.20:538][385]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.17-14.35.20:538][385]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.17-14.35.20:538][385]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.17-14.35.20:538][385]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.17-14.35.20:538][385]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.17-14.35.20:538][385]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.17-14.35.20:538][385]AssetCheck: /Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial 正在验证资产
+[2025.12.17-14.35.20:557][385]MaterialEditorStats: Base pass shader without light map: 88 instructions
+Stats: Resources Used: 1
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.17-14.35.20:557][385]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.17-14.35.20:557][385]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-14.35.20:557][385]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.35.20:557][385]MaterialEditorStats: Shader Count: 9
+[2025.12.17-14.35.20:557][385]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.35.32:395][595]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.17-14.35.32:395][595]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.35.32:395][595]MaterialEditorStats: Shader Count: 0
+[2025.12.17-14.35.32:395][595]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.35.32:515][598]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-14.35.32:516][598]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.35.32:516][598]MaterialEditorStats: Shader Count: 2
+[2025.12.17-14.35.32:516][598]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.35.36:106][653]LogMaterialEditor: Saving and Compiling material NewMaterial
+[2025.12.17-14.35.36:404][653]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.12.17-14.35.36:566][653]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.12.17-14.35.36:580][653]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.17-14.35.36:645][653]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial] ([1] browsable assets)...
+[2025.12.17-14.35.36:676][653]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial.NewMaterial]
+[2025.12.17-14.35.36:676][653]OBJ SavePackage: Finished generating thumbnails for package [/Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial]
+[2025.12.17-14.35.36:680][653]LogSavePackage: Moving output files for package: /Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial
+[2025.12.17-14.35.36:681][653]LogSavePackage: Moving 'D:/苦逼美术生/游戏小专业/毕设/github/example/SIMIAO/Saved/NewMaterial01CC13664C09C8A505F74BA8432A44B1.tmp' to 'D:/苦逼美术生/游戏小专业/毕设/github/example/SIMIAO/Content/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial.uasset'
+[2025.12.17-14.35.36:690][653]LogFileHelpers: InternalPromptForCheckoutAndSave took 110.758 ms (total: 27.0 sec)
+[2025.12.17-14.35.36:755][653]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.17-14.35.36:755][653]LogContentValidation: Enabled validators:
+[2025.12.17-14.35.36:755][653]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.17-14.35.36:755][653]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.17-14.35.36:755][653]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.17-14.35.36:755][653]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.17-14.35.36:755][653]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.17-14.35.36:755][653]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.17-14.35.36:755][653]AssetCheck: /Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial 正在验证资产
+[2025.12.17-14.35.36:774][653]MaterialEditorStats: Base pass shader without light map: 88 instructions
+Stats: Resources Used: 1
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.17-14.35.36:774][653]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.17-14.35.36:774][653]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-14.35.36:774][653]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.35.36:774][653]MaterialEditorStats: Shader Count: 9
+[2025.12.17-14.35.36:774][653]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.35.52:608][935]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.17-14.35.52:608][935]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.35.52:608][935]MaterialEditorStats: Shader Count: 0
+[2025.12.17-14.35.52:608][935]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.35.52:728][938]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-14.35.52:728][938]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.35.52:728][938]MaterialEditorStats: Shader Count: 2
+[2025.12.17-14.35.52:728][938]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.35.53:437][949]LogMaterialEditor: Saving and Compiling material NewMaterial
+[2025.12.17-14.35.53:734][949]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.12.17-14.35.53:896][949]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.12.17-14.35.53:908][949]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.17-14.35.53:974][949]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial] ([1] browsable assets)...
+[2025.12.17-14.35.54:006][949]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial.NewMaterial]
+[2025.12.17-14.35.54:006][949]OBJ SavePackage: Finished generating thumbnails for package [/Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial]
+[2025.12.17-14.35.54:010][949]LogSavePackage: Moving output files for package: /Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial
+[2025.12.17-14.35.54:011][949]LogSavePackage: Moving 'D:/苦逼美术生/游戏小专业/毕设/github/example/SIMIAO/Saved/NewMaterial4FEAF27E427B890E083732AFED4ED31C.tmp' to 'D:/苦逼美术生/游戏小专业/毕设/github/example/SIMIAO/Content/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial.uasset'
+[2025.12.17-14.35.54:021][949]LogFileHelpers: InternalPromptForCheckoutAndSave took 112.632 ms (total: 27.1 sec)
+[2025.12.17-14.35.54:085][949]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.17-14.35.54:085][949]LogContentValidation: Enabled validators:
+[2025.12.17-14.35.54:085][949]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.17-14.35.54:085][949]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.17-14.35.54:085][949]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.17-14.35.54:085][949]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.17-14.35.54:085][949]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.17-14.35.54:085][949]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.17-14.35.54:085][949]AssetCheck: /Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial 正在验证资产
+[2025.12.17-14.35.54:103][949]MaterialEditorStats: Base pass shader without light map: 88 instructions
+Stats: Resources Used: 1
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.17-14.35.54:103][949]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.17-14.35.54:103][949]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-14.35.54:103][949]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.35.54:103][949]MaterialEditorStats: Shader Count: 9
+[2025.12.17-14.35.54:104][949]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.36.02:571][ 79]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.17-14.36.02:571][ 79]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.36.02:571][ 79]MaterialEditorStats: Shader Count: 0
+[2025.12.17-14.36.02:571][ 79]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.36.04:302][106]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-14.36.04:303][106]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.36.04:303][106]MaterialEditorStats: Shader Count: 2
+[2025.12.17-14.36.04:303][106]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.36.07:287][152]LogMaterialEditor: Saving and Compiling material NewMaterial
+[2025.12.17-14.36.07:585][152]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.12.17-14.36.07:754][152]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.12.17-14.36.07:769][152]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.17-14.36.07:835][152]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial] ([1] browsable assets)...
+[2025.12.17-14.36.11:034][152]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial.NewMaterial]
+[2025.12.17-14.36.11:034][152]OBJ SavePackage: Finished generating thumbnails for package [/Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial]
+[2025.12.17-14.36.11:039][152]LogSavePackage: Moving output files for package: /Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial
+[2025.12.17-14.36.11:040][152]LogSavePackage: Moving 'D:/苦逼美术生/游戏小专业/毕设/github/example/SIMIAO/Saved/NewMaterialB90687F745813A2930917C948C188ED1.tmp' to 'D:/苦逼美术生/游戏小专业/毕设/github/example/SIMIAO/Content/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial.uasset'
+[2025.12.17-14.36.11:050][152]LogFileHelpers: InternalPromptForCheckoutAndSave took 3.28 sec (total: 30.4 sec)
+[2025.12.17-14.36.11:122][152]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.17-14.36.11:122][152]LogContentValidation: Enabled validators:
+[2025.12.17-14.36.11:122][152]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.17-14.36.11:122][152]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.17-14.36.11:123][152]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.17-14.36.11:123][152]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.17-14.36.11:123][152]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.17-14.36.11:123][152]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.17-14.36.11:123][152]AssetCheck: /Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial 正在验证资产
+[2025.12.17-14.36.11:133][152]LogShaderCompilers: Display: ================================================
+[2025.12.17-14.36.11:133][152]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.12.17-14.36.11:133][152]LogShaderCompilers: Display: Total job queries 1,292, among them cache hits 887 (68.65%), DDC hits 285 (22.06%), Duplicates 19 (1.47%)
+[2025.12.17-14.36.11:133][152]LogShaderCompilers: Display: Tracking 386 distinct input hashes that result in 279 distinct outputs (72.28%)
+[2025.12.17-14.36.11:133][152]LogShaderCompilers: Display: RAM used: 166.22 KiB of 1.60 GiB budget. Usage: 0.01%
+[2025.12.17-14.36.11:133][152]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.12.17-14.36.11:133][152]LogShaderCompilers: Display: Shaders Compiled: 101
+[2025.12.17-14.36.11:133][152]LogShaderCompilers: Display: Jobs assigned 101, completed 101 (100%)
+[2025.12.17-14.36.11:133][152]LogShaderCompilers: Display: Average time worker was idle: 245.40 s
+[2025.12.17-14.36.11:133][152]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.13 s
+[2025.12.17-14.36.11:133][152]LogShaderCompilers: Display: Job execution time: average 2.23 s, max 5.07 s
+[2025.12.17-14.36.11:133][152]LogShaderCompilers: Display: Job life time (pending + execution): average 2.28 s, max 5.08
+[2025.12.17-14.36.11:133][152]LogShaderCompilers: Display: Shader code size: average 6.992 KiB, min 2.188 KiB, max 10.938 KiB
+[2025.12.17-14.36.11:133][152]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 70.04 s
+[2025.12.17-14.36.11:133][152]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.12.17-14.36.11:134][152]LogShaderCompilers: Display: Jobs were issued in 101 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.12.17-14.36.11:134][152]LogShaderCompilers: Display: Average processing rate: 1.44 jobs/sec
+[2025.12.17-14.36.11:134][152]LogShaderCompilers: Display: Total thread time: 48.539 s
+[2025.12.17-14.36.11:134][152]LogShaderCompilers: Display: Total thread preprocess time: 14.919 s
+[2025.12.17-14.36.11:134][152]LogShaderCompilers: Display: Percentage time preprocessing: 30.74%
+[2025.12.17-14.36.11:134][152]LogShaderCompilers: Display: Effective parallelization: 0.69 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.12.17-14.36.11:134][152]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.12.17-14.36.11:134][152]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   10 times, average 0.97 sec, max 1.05 sec, min 0.87 sec)
+[2025.12.17-14.36.11:134][152]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   13 times, average 0.87 sec, max 1.04 sec, min 0.75 sec)
+[2025.12.17-14.36.11:134][152]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    1 times, average 0.72 sec, max 0.72 sec, min 0.72 sec)
+[2025.12.17-14.36.11:134][152]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   14 times, average 0.49 sec, max 0.57 sec, min 0.46 sec)
+[2025.12.17-14.36.11:134][152]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 0.45 sec, max 0.45 sec, min 0.45 sec)
+[2025.12.17-14.36.11:134][152]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.12.17-14.36.11:134][152]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 23.21% of total time (compiled   13 times, average 0.87 sec, max 1.04 sec, min 0.75 sec)
+[2025.12.17-14.36.11:134][152]LogShaderCompilers: Display:                                             FDebugViewModePS - 19.93% of total time (compiled   10 times, average 0.97 sec, max 1.05 sec, min 0.87 sec)
+[2025.12.17-14.36.11:134][152]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 14.20% of total time (compiled   14 times, average 0.49 sec, max 0.57 sec, min 0.46 sec)
+[2025.12.17-14.36.11:134][152]LogShaderCompilers: Display:                                       FPostProcessMaterialPS - 13.49% of total time (compiled   18 times, average 0.36 sec, max 0.40 sec, min 0.28 sec)
+[2025.12.17-14.36.11:134][152]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 9.07% of total time (compiled   14 times, average 0.31 sec, max 0.37 sec, min 0.28 sec)
+[2025.12.17-14.36.11:134][152]LogShaderCompilers: Display: === Material stats ===
+[2025.12.17-14.36.11:134][152]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.12.17-14.36.11:134][152]LogShaderCompilers: Display: Materials Translated:    389
+[2025.12.17-14.36.11:134][152]LogShaderCompilers: Display: Material Total Translate Time: 0.18 s
+[2025.12.17-14.36.11:134][152]LogShaderCompilers: Display: Material Translation Only: 0.11 s (61%)
+[2025.12.17-14.36.11:134][152]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.12.17-14.36.11:134][152]LogShaderCompilers: Display: Material Cache Hits: 41 (11%)
+[2025.12.17-14.36.11:134][152]LogShaderCompilers: Display: ================================================
+[2025.12.17-14.36.11:142][152]MaterialEditorStats: Base pass shader without light map: 88 instructions
+Stats: Resources Used: 1
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.17-14.36.11:142][152]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.17-14.36.11:142][152]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-14.36.11:142][152]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.36.11:142][152]MaterialEditorStats: Shader Count: 9
+[2025.12.17-14.36.11:142][152]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.36.23:803][371]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.17-14.36.23:803][371]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.36.23:803][371]MaterialEditorStats: Shader Count: 0
+[2025.12.17-14.36.23:803][371]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.36.24:405][381]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-14.36.24:405][381]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.36.24:405][381]MaterialEditorStats: Shader Count: 2
+[2025.12.17-14.36.24:405][381]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.36.28:305][441]LogMaterialEditor: Saving and Compiling material NewMaterial
+[2025.12.17-14.36.28:605][441]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.12.17-14.36.28:765][441]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.12.17-14.36.28:777][441]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.17-14.36.28:848][441]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial] ([1] browsable assets)...
+[2025.12.17-14.36.29:926][441]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial.NewMaterial]
+[2025.12.17-14.36.29:926][441]OBJ SavePackage: Finished generating thumbnails for package [/Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial]
+[2025.12.17-14.36.29:931][441]LogSavePackage: Moving output files for package: /Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial
+[2025.12.17-14.36.29:931][441]LogSavePackage: Moving 'D:/苦逼美术生/游戏小专业/毕设/github/example/SIMIAO/Saved/NewMaterial76B943154F842865B684EA9252DA2F5D.tmp' to 'D:/苦逼美术生/游戏小专业/毕设/github/example/SIMIAO/Content/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial.uasset'
+[2025.12.17-14.36.29:940][441]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.16 sec (total: 31.5 sec)
+[2025.12.17-14.36.30:005][441]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.17-14.36.30:005][441]LogContentValidation: Enabled validators:
+[2025.12.17-14.36.30:005][441]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.17-14.36.30:005][441]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.17-14.36.30:005][441]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.17-14.36.30:005][441]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.17-14.36.30:005][441]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.17-14.36.30:005][441]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.17-14.36.30:005][441]AssetCheck: /Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial 正在验证资产
+[2025.12.17-14.36.30:022][441]MaterialEditorStats: Base pass shader without light map: 88 instructions
+Stats: Resources Used: 1
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.17-14.36.30:022][441]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.17-14.36.30:022][441]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-14.36.30:022][441]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.36.30:022][441]MaterialEditorStats: Shader Count: 9
+[2025.12.17-14.36.30:022][441]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.36.40:713][597]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.17-14.36.40:713][597]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.36.40:713][597]MaterialEditorStats: Shader Count: 0
+[2025.12.17-14.36.40:713][597]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.36.41:327][607]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-14.36.41:327][607]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.36.41:327][607]MaterialEditorStats: Shader Count: 2
+[2025.12.17-14.36.41:327][607]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.36.46:183][678]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.17-14.36.46:184][678]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.36.46:184][678]MaterialEditorStats: Shader Count: 0
+[2025.12.17-14.36.46:184][678]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.36.46:309][681]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-14.36.46:309][681]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.36.46:309][681]MaterialEditorStats: Shader Count: 2
+[2025.12.17-14.36.46:309][681]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.36.48:221][711]LogMaterialEditor: Saving and Compiling material NewMaterial
+[2025.12.17-14.36.48:521][711]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.12.17-14.36.48:686][711]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.12.17-14.36.48:699][711]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.17-14.36.48:768][711]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial] ([1] browsable assets)...
+[2025.12.17-14.36.50:014][711]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial.NewMaterial]
+[2025.12.17-14.36.50:015][711]OBJ SavePackage: Finished generating thumbnails for package [/Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial]
+[2025.12.17-14.36.50:018][711]LogSavePackage: Moving output files for package: /Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial
+[2025.12.17-14.36.50:019][711]LogSavePackage: Moving 'D:/苦逼美术生/游戏小专业/毕设/github/example/SIMIAO/Saved/NewMaterial51678FC94C038DA77EE097A34D9921F3.tmp' to 'D:/苦逼美术生/游戏小专业/毕设/github/example/SIMIAO/Content/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial.uasset'
+[2025.12.17-14.36.50:028][711]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.32 sec (total: 32.9 sec)
+[2025.12.17-14.36.50:093][711]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.17-14.36.50:094][711]LogContentValidation: Enabled validators:
+[2025.12.17-14.36.50:094][711]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.17-14.36.50:094][711]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.17-14.36.50:094][711]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.17-14.36.50:094][711]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.17-14.36.50:094][711]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.17-14.36.50:094][711]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.17-14.36.50:094][711]AssetCheck: /Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial 正在验证资产
+[2025.12.17-14.36.50:111][711]MaterialEditorStats: Base pass shader without light map: 88 instructions
+Stats: Resources Used: 1
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.17-14.36.50:111][711]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.17-14.36.50:111][711]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-14.36.50:111][711]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.36.50:111][711]MaterialEditorStats: Shader Count: 9
+[2025.12.17-14.36.50:112][711]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.37.05:488][942]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.17-14.37.05:488][942]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.37.05:488][942]MaterialEditorStats: Shader Count: 0
+[2025.12.17-14.37.05:488][942]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.37.05:611][945]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-14.37.05:613][945]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.37.05:613][945]MaterialEditorStats: Shader Count: 2
+[2025.12.17-14.37.05:613][945]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.37.07:358][971]LogMaterialEditor: Saving and Compiling material NewMaterial
+[2025.12.17-14.37.07:661][971]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.12.17-14.37.07:839][971]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.12.17-14.37.07:853][971]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.17-14.37.07:921][971]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial] ([1] browsable assets)...
+[2025.12.17-14.37.07:953][971]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial.NewMaterial]
+[2025.12.17-14.37.07:953][971]OBJ SavePackage: Finished generating thumbnails for package [/Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial]
+[2025.12.17-14.37.07:957][971]LogSavePackage: Moving output files for package: /Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial
+[2025.12.17-14.37.07:958][971]LogSavePackage: Moving 'D:/苦逼美术生/游戏小专业/毕设/github/example/SIMIAO/Saved/NewMaterialA374168C49C36C31ADC5F3BB506F45DF.tmp' to 'D:/苦逼美术生/游戏小专业/毕设/github/example/SIMIAO/Content/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial.uasset'
+[2025.12.17-14.37.07:968][971]LogFileHelpers: InternalPromptForCheckoutAndSave took 114.833 ms (total: 33.0 sec)
+[2025.12.17-14.37.08:036][971]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.17-14.37.08:036][971]LogContentValidation: Enabled validators:
+[2025.12.17-14.37.08:036][971]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.17-14.37.08:036][971]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.17-14.37.08:036][971]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.17-14.37.08:036][971]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.17-14.37.08:036][971]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.17-14.37.08:036][971]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.17-14.37.08:036][971]AssetCheck: /Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial 正在验证资产
+[2025.12.17-14.37.08:055][971]MaterialEditorStats: Base pass shader without light map: 88 instructions
+Stats: Resources Used: 1
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.17-14.37.08:055][971]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.17-14.37.08:055][971]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-14.37.08:055][971]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.37.08:055][971]MaterialEditorStats: Shader Count: 9
+[2025.12.17-14.37.08:055][971]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.37.12:820][ 41]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.17-14.37.12:820][ 41]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.37.12:820][ 41]MaterialEditorStats: Shader Count: 0
+[2025.12.17-14.37.12:820][ 41]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.37.12:943][ 44]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-14.37.12:943][ 44]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.37.12:943][ 44]MaterialEditorStats: Shader Count: 2
+[2025.12.17-14.37.12:943][ 44]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.37.15:345][ 80]LogMaterialEditor: Saving and Compiling material NewMaterial
+[2025.12.17-14.37.15:642][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.66ms
+[2025.12.17-14.37.15:805][ 80]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.12.17-14.37.15:819][ 80]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.17-14.37.15:885][ 80]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial] ([1] browsable assets)...
+[2025.12.17-14.37.15:916][ 80]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial.NewMaterial]
+[2025.12.17-14.37.15:916][ 80]OBJ SavePackage: Finished generating thumbnails for package [/Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial]
+[2025.12.17-14.37.15:921][ 80]LogSavePackage: Moving output files for package: /Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial
+[2025.12.17-14.37.15:921][ 80]LogSavePackage: Moving 'D:/苦逼美术生/游戏小专业/毕设/github/example/SIMIAO/Saved/NewMaterial1D9E7E5C44667BFD881B9B9188FCF248.tmp' to 'D:/苦逼美术生/游戏小专业/毕设/github/example/SIMIAO/Content/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial.uasset'
+[2025.12.17-14.37.15:932][ 80]LogFileHelpers: InternalPromptForCheckoutAndSave took 112.832 ms (total: 33.1 sec)
+[2025.12.17-14.37.15:993][ 80]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.17-14.37.15:993][ 80]LogContentValidation: Enabled validators:
+[2025.12.17-14.37.15:993][ 80]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.17-14.37.15:993][ 80]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.17-14.37.15:993][ 80]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.17-14.37.15:993][ 80]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.17-14.37.15:993][ 80]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.17-14.37.15:993][ 80]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.17-14.37.15:993][ 80]AssetCheck: /Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial 正在验证资产
+[2025.12.17-14.37.16:012][ 80]MaterialEditorStats: Base pass shader without light map: 88 instructions
+Stats: Resources Used: 1
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.17-14.37.16:012][ 80]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.17-14.37.16:012][ 80]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-14.37.16:012][ 80]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.37.16:012][ 80]MaterialEditorStats: Shader Count: 9
+[2025.12.17-14.37.16:012][ 80]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.37.20:295][144]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.17-14.37.20:295][144]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.37.20:295][144]MaterialEditorStats: Shader Count: 0
+[2025.12.17-14.37.20:295][144]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.37.20:420][147]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-14.37.20:420][147]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.37.20:420][147]MaterialEditorStats: Shader Count: 2
+[2025.12.17-14.37.20:420][147]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.37.21:652][166]LogMaterialEditor: Saving and Compiling material NewMaterial
+[2025.12.17-14.37.21:952][166]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.12.17-14.37.22:128][166]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.12.17-14.37.22:142][166]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.17-14.37.22:206][166]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial] ([1] browsable assets)...
+[2025.12.17-14.37.22:236][166]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial.NewMaterial]
+[2025.12.17-14.37.22:236][166]OBJ SavePackage: Finished generating thumbnails for package [/Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial]
+[2025.12.17-14.37.22:242][166]LogSavePackage: Moving output files for package: /Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial
+[2025.12.17-14.37.22:242][166]LogSavePackage: Moving 'D:/苦逼美术生/游戏小专业/毕设/github/example/SIMIAO/Saved/NewMaterial501FFD5E481E7A836E0ABD9C5FAC0758.tmp' to 'D:/苦逼美术生/游戏小专业/毕设/github/example/SIMIAO/Content/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial.uasset'
+[2025.12.17-14.37.22:252][166]LogFileHelpers: InternalPromptForCheckoutAndSave took 109.590 ms (total: 33.2 sec)
+[2025.12.17-14.37.22:320][166]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.17-14.37.22:320][166]LogContentValidation: Enabled validators:
+[2025.12.17-14.37.22:320][166]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.17-14.37.22:320][166]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.17-14.37.22:320][166]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.17-14.37.22:320][166]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.17-14.37.22:320][166]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.17-14.37.22:320][166]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.17-14.37.22:320][166]AssetCheck: /Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial 正在验证资产
+[2025.12.17-14.37.22:338][166]MaterialEditorStats: Base pass shader without light map: 88 instructions
+Stats: Resources Used: 1
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.17-14.37.22:338][166]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.17-14.37.22:339][166]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-14.37.22:339][166]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.37.22:339][166]MaterialEditorStats: Shader Count: 9
+[2025.12.17-14.37.22:339][166]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.37.32:464][341]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.17-14.37.32:464][341]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.37.32:464][341]MaterialEditorStats: Shader Count: 0
+[2025.12.17-14.37.32:464][341]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.37.32:591][344]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-14.37.32:591][344]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.37.32:591][344]MaterialEditorStats: Shader Count: 2
+[2025.12.17-14.37.32:591][344]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.37.34:351][369]LogMaterialEditor: Saving and Compiling material NewMaterial
+[2025.12.17-14.37.34:654][369]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.12.17-14.37.34:822][369]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.12.17-14.37.34:836][369]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.17-14.37.34:898][369]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial] ([1] browsable assets)...
+[2025.12.17-14.37.34:929][369]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial.NewMaterial]
+[2025.12.17-14.37.34:929][369]OBJ SavePackage: Finished generating thumbnails for package [/Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial]
+[2025.12.17-14.37.34:933][369]LogSavePackage: Moving output files for package: /Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial
+[2025.12.17-14.37.34:934][369]LogSavePackage: Moving 'D:/苦逼美术生/游戏小专业/毕设/github/example/SIMIAO/Saved/NewMaterial626C45F34E0A3BD16762B28E1C799752.tmp' to 'D:/苦逼美术生/游戏小专业/毕设/github/example/SIMIAO/Content/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial.uasset'
+[2025.12.17-14.37.34:944][369]LogFileHelpers: InternalPromptForCheckoutAndSave took 108.389 ms (total: 33.3 sec)
+[2025.12.17-14.37.35:010][369]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.17-14.37.35:010][369]LogContentValidation: Enabled validators:
+[2025.12.17-14.37.35:010][369]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.17-14.37.35:010][369]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.17-14.37.35:010][369]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.17-14.37.35:010][369]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.17-14.37.35:010][369]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.17-14.37.35:010][369]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.17-14.37.35:010][369]AssetCheck: /Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial 正在验证资产
+[2025.12.17-14.37.35:029][369]MaterialEditorStats: Base pass shader without light map: 88 instructions
+Stats: Resources Used: 1
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.17-14.37.35:029][369]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.17-14.37.35:029][369]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-14.37.35:029][369]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.37.35:029][369]MaterialEditorStats: Shader Count: 9
+[2025.12.17-14.37.35:029][369]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.37.38:386][416]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.17-14.37.38:386][416]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.37.38:387][416]MaterialEditorStats: Shader Count: 0
+[2025.12.17-14.37.38:387][416]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.37.39:555][434]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-14.37.39:555][434]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.37.39:555][434]MaterialEditorStats: Shader Count: 2
+[2025.12.17-14.37.39:555][434]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.37.40:314][446]LogMaterialEditor: Saving and Compiling material NewMaterial
+[2025.12.17-14.37.40:617][446]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2025.12.17-14.37.40:777][446]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.12.17-14.37.40:790][446]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.17-14.37.40:856][446]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial] ([1] browsable assets)...
+[2025.12.17-14.37.43:172][446]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial.NewMaterial]
+[2025.12.17-14.37.43:172][446]OBJ SavePackage: Finished generating thumbnails for package [/Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial]
+[2025.12.17-14.37.43:176][446]LogSavePackage: Moving output files for package: /Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial
+[2025.12.17-14.37.43:177][446]LogSavePackage: Moving 'D:/苦逼美术生/游戏小专业/毕设/github/example/SIMIAO/Saved/NewMaterial26F83DE54A08FF556A58E7B90AF79F6D.tmp' to 'D:/苦逼美术生/游戏小专业/毕设/github/example/SIMIAO/Content/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial.uasset'
+[2025.12.17-14.37.43:187][446]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.39 sec (total: 35.7 sec)
+[2025.12.17-14.37.43:253][446]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.17-14.37.43:253][446]LogContentValidation: Enabled validators:
+[2025.12.17-14.37.43:253][446]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.17-14.37.43:253][446]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.17-14.37.43:253][446]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.17-14.37.43:253][446]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.17-14.37.43:253][446]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.17-14.37.43:253][446]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.17-14.37.43:253][446]AssetCheck: /Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial 正在验证资产
+[2025.12.17-14.37.43:272][446]MaterialEditorStats: Base pass shader without light map: 88 instructions
+Stats: Resources Used: 1
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.17-14.37.43:272][446]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.17-14.37.43:272][446]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-14.37.43:272][446]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.37.43:272][446]MaterialEditorStats: Shader Count: 9
+[2025.12.17-14.37.43:272][446]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.38.13:293][589]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.17-14.38.13:293][589]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.38.13:293][589]MaterialEditorStats: Shader Count: 0
+[2025.12.17-14.38.13:293][589]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.38.13:386][590]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-14.38.13:386][590]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.38.13:386][590]MaterialEditorStats: Shader Count: 2
+[2025.12.17-14.38.13:387][590]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.38.16:070][661]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.17-14.38.16:070][661]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.38.16:070][661]MaterialEditorStats: Shader Count: 0
+[2025.12.17-14.38.16:070][661]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.38.16:263][664]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-14.38.16:263][664]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.38.16:265][664]MaterialEditorStats: Shader Count: 2
+[2025.12.17-14.38.16:265][664]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.38.22:533][771]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.17-14.38.22:533][771]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.38.22:533][771]MaterialEditorStats: Shader Count: 0
+[2025.12.17-14.38.22:533][771]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.38.23:643][789]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-14.38.23:643][789]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.38.23:644][789]MaterialEditorStats: Shader Count: 2
+[2025.12.17-14.38.23:644][789]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.38.23:773][791]LogMaterialEditor: Saving and Compiling material NewMaterial
+[2025.12.17-14.38.24:074][791]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.12.17-14.38.24:240][791]LogUObjectHash: Compacting FUObjectHashTables data took   0.36ms
+[2025.12.17-14.38.24:254][791]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.17-14.38.24:320][791]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial] ([1] browsable assets)...
+[2025.12.17-14.38.26:669][791]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial.NewMaterial]
+[2025.12.17-14.38.26:669][791]OBJ SavePackage: Finished generating thumbnails for package [/Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial]
+[2025.12.17-14.38.26:674][791]LogSavePackage: Moving output files for package: /Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial
+[2025.12.17-14.38.26:675][791]LogSavePackage: Moving 'D:/苦逼美术生/游戏小专业/毕设/github/example/SIMIAO/Saved/NewMaterial28C42D38450F2EE49A041F9E38C9735C.tmp' to 'D:/苦逼美术生/游戏小专业/毕设/github/example/SIMIAO/Content/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial.uasset'
+[2025.12.17-14.38.26:683][791]LogFileHelpers: InternalPromptForCheckoutAndSave took 2.42 sec (total: 38.1 sec)
+[2025.12.17-14.38.26:749][791]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.17-14.38.26:749][791]LogContentValidation: Enabled validators:
+[2025.12.17-14.38.26:749][791]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.17-14.38.26:749][791]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.17-14.38.26:749][791]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.17-14.38.26:749][791]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.17-14.38.26:749][791]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.17-14.38.26:749][791]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.17-14.38.26:749][791]AssetCheck: /Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial 正在验证资产
+[2025.12.17-14.38.26:769][791]MaterialEditorStats: Base pass shader without light map: 89 instructions
+Stats: Resources Used: 1
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.17-14.38.26:769][791]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.17-14.38.26:769][791]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-14.38.26:769][791]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.38.26:769][791]MaterialEditorStats: Shader Count: 9
+[2025.12.17-14.38.26:769][791]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.38.32:165][879]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.17-14.38.32:165][879]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.38.32:165][879]MaterialEditorStats: Shader Count: 0
+[2025.12.17-14.38.32:165][879]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.38.32:856][890]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-14.38.32:856][890]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.38.32:857][890]MaterialEditorStats: Shader Count: 2
+[2025.12.17-14.38.32:857][890]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.38.34:222][910]LogMaterialEditor: Saving and Compiling material NewMaterial
+[2025.12.17-14.38.34:525][910]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.12.17-14.38.34:692][910]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.12.17-14.38.34:706][910]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.17-14.38.34:774][910]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial] ([1] browsable assets)...
+[2025.12.17-14.38.35:996][910]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial.NewMaterial]
+[2025.12.17-14.38.35:996][910]OBJ SavePackage: Finished generating thumbnails for package [/Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial]
+[2025.12.17-14.38.36:000][910]LogSavePackage: Moving output files for package: /Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial
+[2025.12.17-14.38.36:001][910]LogSavePackage: Moving 'D:/苦逼美术生/游戏小专业/毕设/github/example/SIMIAO/Saved/NewMaterial972B3EFE4DCF8D0826BC158B109393AD.tmp' to 'D:/苦逼美术生/游戏小专业/毕设/github/example/SIMIAO/Content/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial.uasset'
+[2025.12.17-14.38.36:011][910]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.30 sec (total: 39.5 sec)
+[2025.12.17-14.38.36:076][910]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.17-14.38.36:076][910]LogContentValidation: Enabled validators:
+[2025.12.17-14.38.36:076][910]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.17-14.38.36:076][910]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.17-14.38.36:076][910]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.17-14.38.36:076][910]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.17-14.38.36:076][910]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.17-14.38.36:076][910]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.17-14.38.36:076][910]AssetCheck: /Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial 正在验证资产
+[2025.12.17-14.38.36:095][910]MaterialEditorStats: Base pass shader without light map: 89 instructions
+Stats: Resources Used: 1
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.17-14.38.36:095][910]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.17-14.38.36:095][910]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-14.38.36:095][910]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.38.36:095][910]MaterialEditorStats: Shader Count: 9
+[2025.12.17-14.38.36:095][910]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.38.39:310][956]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.17-14.38.39:310][956]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.38.39:310][956]MaterialEditorStats: Shader Count: 0
+[2025.12.17-14.38.39:310][956]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.38.39:435][959]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-14.38.39:435][959]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.38.39:435][959]MaterialEditorStats: Shader Count: 2
+[2025.12.17-14.38.39:435][959]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.38.42:160][  0]LogMaterialEditor: Saving and Compiling material NewMaterial
+[2025.12.17-14.38.42:463][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.12.17-14.38.42:642][  0]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.12.17-14.38.42:655][  0]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.17-14.38.42:727][  0]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial] ([1] browsable assets)...
+[2025.12.17-14.38.42:757][  0]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial.NewMaterial]
+[2025.12.17-14.38.42:758][  0]OBJ SavePackage: Finished generating thumbnails for package [/Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial]
+[2025.12.17-14.38.42:762][  0]LogSavePackage: Moving output files for package: /Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial
+[2025.12.17-14.38.42:762][  0]LogSavePackage: Moving 'D:/苦逼美术生/游戏小专业/毕设/github/example/SIMIAO/Saved/NewMaterial04149C7745594086B6739689FCE9E6AF.tmp' to 'D:/苦逼美术生/游戏小专业/毕设/github/example/SIMIAO/Content/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial.uasset'
+[2025.12.17-14.38.42:772][  0]LogFileHelpers: InternalPromptForCheckoutAndSave took 117.205 ms (total: 39.6 sec)
+[2025.12.17-14.38.42:837][  0]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.17-14.38.42:837][  0]LogContentValidation: Enabled validators:
+[2025.12.17-14.38.42:837][  0]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.17-14.38.42:838][  0]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.17-14.38.42:838][  0]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.17-14.38.42:838][  0]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.17-14.38.42:838][  0]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.17-14.38.42:838][  0]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.17-14.38.42:838][  0]AssetCheck: /Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial 正在验证资产
+[2025.12.17-14.38.42:856][  0]MaterialEditorStats: Base pass shader without light map: 89 instructions
+Stats: Resources Used: 1
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.17-14.38.42:856][  0]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.17-14.38.42:856][  0]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-14.38.42:856][  0]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.38.42:856][  0]MaterialEditorStats: Shader Count: 9
+[2025.12.17-14.38.42:856][  0]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.38.46:523][ 53]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.17-14.38.46:524][ 53]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.38.46:524][ 53]MaterialEditorStats: Shader Count: 0
+[2025.12.17-14.38.46:524][ 53]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.38.46:649][ 56]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-14.38.46:649][ 56]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.38.46:649][ 56]MaterialEditorStats: Shader Count: 2
+[2025.12.17-14.38.46:649][ 56]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.38.49:812][101]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.17-14.38.49:812][101]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.38.49:812][101]MaterialEditorStats: Shader Count: 0
+[2025.12.17-14.38.49:812][101]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.38.49:937][104]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-14.38.49:937][104]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.38.49:937][104]MaterialEditorStats: Shader Count: 2
+[2025.12.17-14.38.49:937][104]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.38.51:110][122]LogMaterialEditor: Saving and Compiling material NewMaterial
+[2025.12.17-14.38.51:407][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.12.17-14.38.51:578][122]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.12.17-14.38.51:590][122]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.17-14.38.51:657][122]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial] ([1] browsable assets)...
+[2025.12.17-14.38.51:687][122]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial.NewMaterial]
+[2025.12.17-14.38.51:687][122]OBJ SavePackage: Finished generating thumbnails for package [/Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial]
+[2025.12.17-14.38.51:692][122]LogSavePackage: Moving output files for package: /Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial
+[2025.12.17-14.38.51:692][122]LogSavePackage: Moving 'D:/苦逼美术生/游戏小专业/毕设/github/example/SIMIAO/Saved/NewMaterial6942393D408674AA6396F58BF1247BE5.tmp' to 'D:/苦逼美术生/游戏小专业/毕设/github/example/SIMIAO/Content/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial.uasset'
+[2025.12.17-14.38.51:702][122]LogFileHelpers: InternalPromptForCheckoutAndSave took 112.150 ms (total: 39.7 sec)
+[2025.12.17-14.38.51:767][122]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.17-14.38.51:767][122]LogContentValidation: Enabled validators:
+[2025.12.17-14.38.51:767][122]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.17-14.38.51:767][122]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.17-14.38.51:767][122]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.17-14.38.51:767][122]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.17-14.38.51:767][122]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.17-14.38.51:767][122]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.17-14.38.51:768][122]AssetCheck: /Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial 正在验证资产
+[2025.12.17-14.38.51:787][122]MaterialEditorStats: Base pass shader without light map: 89 instructions
+Stats: Resources Used: 1
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.17-14.38.51:787][122]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.17-14.38.51:787][122]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-14.38.51:787][122]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.38.51:787][122]MaterialEditorStats: Shader Count: 9
+[2025.12.17-14.38.51:787][122]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.39.04:191][302]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.17-14.39.04:191][302]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.39.04:191][302]MaterialEditorStats: Shader Count: 0
+[2025.12.17-14.39.04:191][302]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.39.05:357][320]LogMaterialEditor: Saving and Compiling material NewMaterial
+[2025.12.17-14.39.05:661][320]LogUObjectHash: Compacting FUObjectHashTables data took   0.63ms
+[2025.12.17-14.39.05:826][320]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.12.17-14.39.05:839][320]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.17-14.39.05:909][320]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial] ([1] browsable assets)...
+[2025.12.17-14.39.09:214][320]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial.NewMaterial]
+[2025.12.17-14.39.09:214][320]OBJ SavePackage: Finished generating thumbnails for package [/Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial]
+[2025.12.17-14.39.09:219][320]LogSavePackage: Moving output files for package: /Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial
+[2025.12.17-14.39.09:220][320]LogSavePackage: Moving 'D:/苦逼美术生/游戏小专业/毕设/github/example/SIMIAO/Saved/NewMaterial92EE0C5F494142845D2AE5A060B2FA61.tmp' to 'D:/苦逼美术生/游戏小专业/毕设/github/example/SIMIAO/Content/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial.uasset'
+[2025.12.17-14.39.09:264][320]LogFileHelpers: InternalPromptForCheckoutAndSave took 3.42 sec (total: 43.1 sec)
+[2025.12.17-14.39.09:381][320]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.17-14.39.09:381][320]LogContentValidation: Enabled validators:
+[2025.12.17-14.39.09:381][320]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.17-14.39.09:381][320]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.17-14.39.09:381][320]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.17-14.39.09:381][320]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.17-14.39.09:381][320]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.17-14.39.09:381][320]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.17-14.39.09:381][320]AssetCheck: /Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial 正在验证资产
+[2025.12.17-14.39.09:432][320]MaterialEditorStats: Base pass shader without light map: 89 instructions
+Stats: Resources Used: 1
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.17-14.39.09:432][320]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.17-14.39.09:432][320]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-14.39.09:432][320]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.39.09:432][320]MaterialEditorStats: Shader Count: 9
+[2025.12.17-14.39.09:432][320]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.39.11:265][345]LogShaderCompilers: Display: ================================================
+[2025.12.17-14.39.11:265][345]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.12.17-14.39.11:265][345]LogShaderCompilers: Display: Total job queries 1,562, among them cache hits 1,115 (71.38%), DDC hits 285 (18.25%), Duplicates 19 (1.22%)
+[2025.12.17-14.39.11:265][345]LogShaderCompilers: Display: Tracking 428 distinct input hashes that result in 291 distinct outputs (67.99%)
+[2025.12.17-14.39.11:265][345]LogShaderCompilers: Display: RAM used: 176.88 KiB of 1.60 GiB budget. Usage: 0.01%
+[2025.12.17-14.39.11:265][345]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.12.17-14.39.11:265][345]LogShaderCompilers: Display: Shaders Compiled: 143
+[2025.12.17-14.39.11:265][345]LogShaderCompilers: Display: Jobs assigned 143, completed 143 (100%)
+[2025.12.17-14.39.11:265][345]LogShaderCompilers: Display: Average time worker was idle: 177.61 s
+[2025.12.17-14.39.11:265][345]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.13 s
+[2025.12.17-14.39.11:265][345]LogShaderCompilers: Display: Job execution time: average 1.91 s, max 5.07 s
+[2025.12.17-14.39.11:265][345]LogShaderCompilers: Display: Job life time (pending + execution): average 1.97 s, max 5.08
+[2025.12.17-14.39.11:265][345]LogShaderCompilers: Display: Shader code size: average 7.098 KiB, min 2.188 KiB, max 10.938 KiB
+[2025.12.17-14.39.11:265][345]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 85.90 s
+[2025.12.17-14.39.11:265][345]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.12.17-14.39.11:265][345]LogShaderCompilers: Display: Jobs were issued in 143 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.12.17-14.39.11:265][345]LogShaderCompilers: Display: Average processing rate: 1.66 jobs/sec
+[2025.12.17-14.39.11:265][345]LogShaderCompilers: Display: Total thread time: 69.665 s
+[2025.12.17-14.39.11:265][345]LogShaderCompilers: Display: Total thread preprocess time: 17.291 s
+[2025.12.17-14.39.11:265][345]LogShaderCompilers: Display: Percentage time preprocessing: 24.82%
+[2025.12.17-14.39.11:265][345]LogShaderCompilers: Display: Effective parallelization: 0.81 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.12.17-14.39.11:265][345]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.12.17-14.39.11:265][345]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   16 times, average 0.99 sec, max 1.06 sec, min 0.87 sec)
+[2025.12.17-14.39.11:265][345]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   19 times, average 0.85 sec, max 1.04 sec, min 0.75 sec)
+[2025.12.17-14.39.11:265][345]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    1 times, average 0.72 sec, max 0.72 sec, min 0.72 sec)
+[2025.12.17-14.39.11:265][345]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   20 times, average 0.48 sec, max 0.57 sec, min 0.44 sec)
+[2025.12.17-14.39.11:265][345]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 0.45 sec, max 0.45 sec, min 0.45 sec)
+[2025.12.17-14.39.11:265][345]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.12.17-14.39.11:265][345]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 23.19% of total time (compiled   19 times, average 0.85 sec, max 1.04 sec, min 0.75 sec)
+[2025.12.17-14.39.11:265][345]LogShaderCompilers: Display:                                             FDebugViewModePS - 22.63% of total time (compiled   16 times, average 0.99 sec, max 1.06 sec, min 0.87 sec)
+[2025.12.17-14.39.11:265][345]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 13.87% of total time (compiled   20 times, average 0.48 sec, max 0.57 sec, min 0.44 sec)
+[2025.12.17-14.39.11:265][345]LogShaderCompilers: Display:                                       FPostProcessMaterialPS - 12.56% of total time (compiled   24 times, average 0.36 sec, max 0.40 sec, min 0.28 sec)
+[2025.12.17-14.39.11:265][345]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 8.82% of total time (compiled   20 times, average 0.31 sec, max 0.37 sec, min 0.28 sec)
+[2025.12.17-14.39.11:265][345]LogShaderCompilers: Display: === Material stats ===
+[2025.12.17-14.39.11:265][345]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.12.17-14.39.11:265][345]LogShaderCompilers: Display: Materials Translated:    430
+[2025.12.17-14.39.11:265][345]LogShaderCompilers: Display: Material Total Translate Time: 0.20 s
+[2025.12.17-14.39.11:265][345]LogShaderCompilers: Display: Material Translation Only: 0.12 s (62%)
+[2025.12.17-14.39.11:265][345]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.12.17-14.39.11:265][345]LogShaderCompilers: Display: Material Cache Hits: 41 (10%)
+[2025.12.17-14.39.11:265][345]LogShaderCompilers: Display: ================================================
+[2025.12.17-14.41.01:264][926]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 4795.989258
+[2025.12.17-14.41.01:599][946]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.17-14.41.01:599][946]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 4796.306152, Update Interval: 356.996979
+[2025.12.17-14.41.30:625][444]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.17-14.41.30:625][444]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.41.30:625][444]MaterialEditorStats: Shader Count: 0
+[2025.12.17-14.41.30:625][444]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.41.30:792][446]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-14.41.30:792][446]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.41.30:792][446]MaterialEditorStats: Shader Count: 2
+[2025.12.17-14.41.30:792][446]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.41.43:936][903]LogSlate: Window '取色器' being destroyed
+[2025.12.17-14.42.11:276][668]LogShaderCompilers: Display: ================================================
+[2025.12.17-14.42.11:277][668]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.12.17-14.42.11:277][668]LogShaderCompilers: Display: Total job queries 1,571, among them cache hits 1,119 (71.23%), DDC hits 285 (18.14%), Duplicates 19 (1.21%)
+[2025.12.17-14.42.11:277][668]LogShaderCompilers: Display: Tracking 433 distinct input hashes that result in 294 distinct outputs (67.90%)
+[2025.12.17-14.42.11:277][668]LogShaderCompilers: Display: RAM used: 177.78 KiB of 1.60 GiB budget. Usage: 0.01%
+[2025.12.17-14.42.11:277][668]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.12.17-14.42.11:277][668]LogShaderCompilers: Display: Shaders Compiled: 148
+[2025.12.17-14.42.11:277][668]LogShaderCompilers: Display: Jobs assigned 148, completed 148 (100%)
+[2025.12.17-14.42.11:277][668]LogShaderCompilers: Display: Average time worker was idle: 177.17 s
+[2025.12.17-14.42.11:277][668]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.13 s
+[2025.12.17-14.42.11:277][668]LogShaderCompilers: Display: Job execution time: average 1.92 s, max 5.07 s
+[2025.12.17-14.42.11:277][668]LogShaderCompilers: Display: Job life time (pending + execution): average 1.98 s, max 5.08
+[2025.12.17-14.42.11:277][668]LogShaderCompilers: Display: Shader code size: average 7.095 KiB, min 2.188 KiB, max 10.938 KiB
+[2025.12.17-14.42.11:277][668]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 88.67 s
+[2025.12.17-14.42.11:277][668]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.12.17-14.42.11:277][668]LogShaderCompilers: Display: Jobs were issued in 148 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.12.17-14.42.11:277][668]LogShaderCompilers: Display: Average processing rate: 1.67 jobs/sec
+[2025.12.17-14.42.11:277][668]LogShaderCompilers: Display: Total thread time: 72.163 s
+[2025.12.17-14.42.11:277][668]LogShaderCompilers: Display: Total thread preprocess time: 17.373 s
+[2025.12.17-14.42.11:277][668]LogShaderCompilers: Display: Percentage time preprocessing: 24.07%
+[2025.12.17-14.42.11:277][668]LogShaderCompilers: Display: Effective parallelization: 0.81 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.12.17-14.42.11:277][668]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.12.17-14.42.11:277][668]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   16 times, average 0.99 sec, max 1.06 sec, min 0.87 sec)
+[2025.12.17-14.42.11:277][668]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   20 times, average 0.86 sec, max 1.04 sec, min 0.75 sec)
+[2025.12.17-14.42.11:277][668]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    1 times, average 0.72 sec, max 0.72 sec, min 0.72 sec)
+[2025.12.17-14.42.11:277][668]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   21 times, average 0.48 sec, max 0.57 sec, min 0.44 sec)
+[2025.12.17-14.42.11:277][668]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 0.45 sec, max 0.45 sec, min 0.45 sec)
+[2025.12.17-14.42.11:277][668]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.12.17-14.42.11:277][668]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 23.74% of total time (compiled   20 times, average 0.86 sec, max 1.04 sec, min 0.75 sec)
+[2025.12.17-14.42.11:277][668]LogShaderCompilers: Display:                                             FDebugViewModePS - 21.84% of total time (compiled   16 times, average 0.99 sec, max 1.06 sec, min 0.87 sec)
+[2025.12.17-14.42.11:277][668]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 14.07% of total time (compiled   21 times, average 0.48 sec, max 0.57 sec, min 0.44 sec)
+[2025.12.17-14.42.11:277][668]LogShaderCompilers: Display:                                       FPostProcessMaterialPS - 12.12% of total time (compiled   24 times, average 0.36 sec, max 0.40 sec, min 0.28 sec)
+[2025.12.17-14.42.11:277][668]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 8.98% of total time (compiled   21 times, average 0.31 sec, max 0.37 sec, min 0.28 sec)
+[2025.12.17-14.42.11:277][668]LogShaderCompilers: Display: === Material stats ===
+[2025.12.17-14.42.11:277][668]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.12.17-14.42.11:277][668]LogShaderCompilers: Display: Materials Translated:    432
+[2025.12.17-14.42.11:277][668]LogShaderCompilers: Display: Material Total Translate Time: 0.20 s
+[2025.12.17-14.42.11:277][668]LogShaderCompilers: Display: Material Translation Only: 0.12 s (61%)
+[2025.12.17-14.42.11:277][668]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.12.17-14.42.11:277][668]LogShaderCompilers: Display: Material Cache Hits: 41 (9%)
+[2025.12.17-14.42.11:277][668]LogShaderCompilers: Display: ================================================
+[2025.12.17-14.42.49:263][575]LogMaterialEditor: Saving and Compiling material NewMaterial
+[2025.12.17-14.42.49:562][575]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2025.12.17-14.42.49:728][575]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.12.17-14.42.49:741][575]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.17-14.42.49:810][575]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial] ([1] browsable assets)...
+[2025.12.17-14.42.49:840][575]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial.NewMaterial]
+[2025.12.17-14.42.49:840][575]OBJ SavePackage: Finished generating thumbnails for package [/Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial]
+[2025.12.17-14.42.49:846][575]LogSavePackage: Moving output files for package: /Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial
+[2025.12.17-14.42.49:847][575]LogSavePackage: Moving 'D:/苦逼美术生/游戏小专业/毕设/github/example/SIMIAO/Saved/NewMaterial44D26A8243E85593F6AD128F7D4E0303.tmp' to 'D:/苦逼美术生/游戏小专业/毕设/github/example/SIMIAO/Content/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial.uasset'
+[2025.12.17-14.42.49:856][575]LogFileHelpers: InternalPromptForCheckoutAndSave took 114.729 ms (total: 43.2 sec)
+[2025.12.17-14.42.49:924][575]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.17-14.42.49:924][575]LogContentValidation: Enabled validators:
+[2025.12.17-14.42.49:924][575]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.17-14.42.49:924][575]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.17-14.42.49:924][575]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.17-14.42.49:924][575]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.17-14.42.49:924][575]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.17-14.42.49:924][575]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.17-14.42.49:924][575]AssetCheck: /Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial 正在验证资产
+[2025.12.17-14.42.49:943][575]MaterialEditorStats: Base pass shader without light map: 89 instructions
+Stats: Resources Used: 1
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.17-14.42.49:943][575]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.17-14.42.49:943][575]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-14.42.49:943][575]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.42.49:943][575]MaterialEditorStats: Shader Count: 9
+[2025.12.17-14.42.49:943][575]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.44.26:613][586]LogUObjectHash: Compacting FUObjectHashTables data took   0.84ms
+[2025.12.17-14.44.27:644][586]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Waveborne_The_Sacred_Threshold/map/LV_Waveborne_The_Sacred_Threshold_Auto6
+[2025.12.17-14.44.27:644][586]LogSavePackage: Moving 'D:/苦逼美术生/游戏小专业/毕设/github/example/SIMIAO/Saved/LV_Waveborne_The_Sacred_ThresholFC607F5E4363B50E838CC78D4218E4D5.tmp' to 'D:/苦逼美术生/游戏小专业/毕设/github/example/SIMIAO/Saved/Autosaves/Game/Waveborne_The_Sacred_Threshold/map/LV_Waveborne_The_Sacred_Threshold_Auto6.umap'
+[2025.12.17-14.44.27:647][586]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Waveborne_The_Sacred_Threshold/map/LV_Waveborne_The_Sacred_Threshold' took 1.047
+[2025.12.17-14.44.27:648][586]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 1.047
+[2025.12.17-14.46.25:922][388]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.12.17-14.46.26:882][388]LogSlate: Window '保存内容' being destroyed
+[2025.12.17-14.46.26:894][388]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.17-14.46.27:000][388]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.12.17-14.46.28:046][388]LogSavePackage: Moving output files for package: /Game/Waveborne_The_Sacred_Threshold/map/LV_Waveborne_The_Sacred_Threshold
+[2025.12.17-14.46.28:047][388]LogSavePackage: Moving 'D:/苦逼美术生/游戏小专业/毕设/github/example/SIMIAO/Saved/LV_Waveborne_The_Sacred_Threshol6DF261E94CE0329EF1ACCB9A28ADC6F4.tmp' to 'D:/苦逼美术生/游戏小专业/毕设/github/example/SIMIAO/Content/Waveborne_The_Sacred_Threshold/map/LV_Waveborne_The_Sacred_Threshold.umap'
+[2025.12.17-14.46.28:073][388]LogFileHelpers: 所有文件已保存。
+[2025.12.17-14.46.28:073][388]LogFileHelpers: Saving map 'LV_Waveborne_The_Sacred_Threshold' took 1.109
+[2025.12.17-14.46.28:083][388]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.18 sec (total: 44.4 sec)
+[2025.12.17-14.46.28:174][388]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.17-14.46.28:174][388]LogContentValidation: Enabled validators:
+[2025.12.17-14.46.28:174][388]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.17-14.46.28:174][388]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.17-14.46.28:174][388]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.17-14.46.28:174][388]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.17-14.46.28:174][388]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.17-14.46.28:174][388]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.17-14.46.28:175][388]AssetCheck: /Game/Waveborne_The_Sacred_Threshold/map/LV_Waveborne_The_Sacred_Threshold 正在验证资产
+[2025.12.17-14.47.28:642][538]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.17-14.47.28:642][538]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.47.28:644][538]MaterialEditorStats: Shader Count: 0
+[2025.12.17-14.47.28:644][538]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.47.28:797][540]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-14.47.28:797][540]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.47.28:797][540]MaterialEditorStats: Shader Count: 2
+[2025.12.17-14.47.28:797][540]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.47.45:427][378]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5200.132324
+[2025.12.17-14.47.46:278][429]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.17-14.47.46:278][429]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5200.964844, Update Interval: 346.173279
+[2025.12.17-14.47.50:896][704]LogStreaming: Display: FlushAsyncLoading(498): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.17-14.47.51:003][705]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.17-14.47.51:003][705]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.47.51:003][705]MaterialEditorStats: Shader Count: 0
+[2025.12.17-14.47.51:003][705]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.47.51:090][706]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-14.47.51:090][706]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.47.51:092][706]MaterialEditorStats: Shader Count: 2
+[2025.12.17-14.47.51:092][706]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.47.51:409][710]LogMaterial: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.5\Engine\Content\Functions\Engine_MaterialFunctions02\SampleSceneDepth.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Only transparent or postprocess materials can read from scene depth.
+
+[2025.12.17-14.47.56:757][816]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.17-14.47.56:757][816]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.47.56:757][816]MaterialEditorStats: Shader Count: 0
+[2025.12.17-14.47.56:757][816]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.47.56:919][818]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-14.47.56:919][818]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.47.56:919][818]MaterialEditorStats: Shader Count: 2
+[2025.12.17-14.47.56:919][818]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.47.58:117][834]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.17-14.47.58:117][834]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.47.58:117][834]MaterialEditorStats: Shader Count: 0
+[2025.12.17-14.47.58:117][834]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.47.58:281][836]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-14.47.58:281][836]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.47.58:281][836]MaterialEditorStats: Shader Count: 2
+[2025.12.17-14.47.58:281][836]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.47.58:615][840]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.17-14.47.58:615][840]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.47.58:615][840]MaterialEditorStats: Shader Count: 0
+[2025.12.17-14.47.58:615][840]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.47.58:784][842]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-14.47.58:784][842]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.47.58:785][842]MaterialEditorStats: Shader Count: 2
+[2025.12.17-14.47.58:785][842]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.48.21:560][467]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.17-14.48.21:560][467]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.48.21:560][467]MaterialEditorStats: Shader Count: 0
+[2025.12.17-14.48.21:560][467]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.48.21:755][470]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-14.48.21:755][470]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.48.21:755][470]MaterialEditorStats: Shader Count: 2
+[2025.12.17-14.48.21:755][470]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.48.49:189][407]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.17-14.48.49:189][407]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.48.49:189][407]MaterialEditorStats: Shader Count: 0
+[2025.12.17-14.48.49:189][407]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.48.49:271][408]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-14.48.49:271][408]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.48.49:271][408]MaterialEditorStats: Shader Count: 2
+[2025.12.17-14.48.49:271][408]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.48.52:291][500]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.17-14.48.52:291][500]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.48.52:291][500]MaterialEditorStats: Shader Count: 0
+[2025.12.17-14.48.52:291][500]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.48.52:484][503]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-14.48.52:484][503]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.48.52:484][503]MaterialEditorStats: Shader Count: 2
+[2025.12.17-14.48.52:484][503]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.49.36:506][190]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.17-14.49.36:506][190]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.49.36:506][190]MaterialEditorStats: Shader Count: 0
+[2025.12.17-14.49.36:506][190]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.49.36:685][192]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-14.49.36:685][192]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.49.36:685][192]MaterialEditorStats: Shader Count: 2
+[2025.12.17-14.49.36:686][192]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.49.39:348][263]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.17-14.49.39:348][263]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.49.39:348][263]MaterialEditorStats: Shader Count: 0
+[2025.12.17-14.49.39:348][263]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.49.39:536][266]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-14.49.39:536][266]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.49.39:536][266]MaterialEditorStats: Shader Count: 2
+[2025.12.17-14.49.39:536][266]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.50.07:139][693]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.17-14.50.07:139][693]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.50.07:139][693]MaterialEditorStats: Shader Count: 0
+[2025.12.17-14.50.07:139][693]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.50.07:228][694]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-14.50.07:228][694]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.50.07:228][694]MaterialEditorStats: Shader Count: 2
+[2025.12.17-14.50.07:228][694]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.50.42:281][248]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.17-14.50.42:281][248]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.50.42:281][248]MaterialEditorStats: Shader Count: 0
+[2025.12.17-14.50.42:281][248]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.50.42:369][249]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-14.50.42:369][249]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.50.42:369][249]MaterialEditorStats: Shader Count: 2
+[2025.12.17-14.50.42:369][249]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.51.03:251][702]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.17-14.51.03:251][702]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.51.03:251][702]MaterialEditorStats: Shader Count: 0
+[2025.12.17-14.51.03:251][702]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.51.03:441][705]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-14.51.03:441][705]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.51.03:441][705]MaterialEditorStats: Shader Count: 2
+[2025.12.17-14.51.03:441][705]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.51.11:973][896]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionDistance'MaterialGraphNode_541.MaterialExpressionDistance_2'")'
+[2025.12.17-14.51.11:973][896]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionDistance'MaterialGraphNode_542.MaterialExpressionDistance_3'")'
+[2025.12.17-14.51.11:974][896]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionDistance'MaterialGraphNode_535.MaterialExpressionDistance_0'")'
+[2025.12.17-14.51.11:974][896]LogProperty: Warning: ObjectProperty /Script/Engine.ExpressionInput:Expression: unresolved reference to '"/Script/Engine.MaterialExpressionDistance'MaterialGraphNode_540.MaterialExpressionDistance_1'")'
+[2025.12.17-14.51.12:072][896]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.17-14.51.12:072][896]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.51.12:072][896]MaterialEditorStats: Shader Count: 0
+[2025.12.17-14.51.12:072][896]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.51.12:241][898]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-14.51.12:242][898]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.51.12:242][898]MaterialEditorStats: Shader Count: 2
+[2025.12.17-14.51.12:242][898]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.51.18:450][ 47]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.17-14.51.18:450][ 47]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.51.18:450][ 47]MaterialEditorStats: Shader Count: 0
+[2025.12.17-14.51.18:450][ 47]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.51.18:632][ 49]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-14.51.18:632][ 49]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.51.18:632][ 49]MaterialEditorStats: Shader Count: 2
+[2025.12.17-14.51.18:632][ 49]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.51.21:704][164]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.17-14.51.21:704][164]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.51.21:704][164]MaterialEditorStats: Shader Count: 0
+[2025.12.17-14.51.21:704][164]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.51.21:898][167]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-14.51.21:898][167]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.51.21:898][167]MaterialEditorStats: Shader Count: 2
+[2025.12.17-14.51.21:898][167]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.52.03:971][443]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.17-14.52.03:971][443]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.52.03:971][443]MaterialEditorStats: Shader Count: 0
+[2025.12.17-14.52.03:971][443]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.52.04:147][445]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-14.52.04:147][445]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.52.04:147][445]MaterialEditorStats: Shader Count: 2
+[2025.12.17-14.52.04:147][445]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.52.15:924][826]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.17-14.52.15:924][826]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.52.15:924][826]MaterialEditorStats: Shader Count: 0
+[2025.12.17-14.52.15:924][826]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.52.16:113][829]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-14.52.16:113][829]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.52.16:113][829]MaterialEditorStats: Shader Count: 2
+[2025.12.17-14.52.16:113][829]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.52.18:193][897]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.17-14.52.18:193][897]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.52.18:193][897]MaterialEditorStats: Shader Count: 0
+[2025.12.17-14.52.18:193][897]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.52.18:383][900]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-14.52.18:383][900]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.52.18:383][900]MaterialEditorStats: Shader Count: 2
+[2025.12.17-14.52.18:383][900]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.54.04:934][542]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5579.582520
+[2025.12.17-14.54.05:401][549]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.17-14.54.05:401][549]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5579.982422, Update Interval: 310.008850
+[2025.12.17-14.57.56:246][138]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.17-14.57.56:246][138]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.57.56:246][138]MaterialEditorStats: Shader Count: 0
+[2025.12.17-14.57.56:246][138]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.57.56:435][141]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-14.57.56:435][141]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.57.56:435][141]MaterialEditorStats: Shader Count: 2
+[2025.12.17-14.57.56:435][141]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.58.15:204][ 14]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.17-14.58.15:204][ 14]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.58.15:204][ 14]MaterialEditorStats: Shader Count: 0
+[2025.12.17-14.58.15:204][ 14]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.58.15:291][ 15]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-14.58.15:291][ 15]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.58.15:291][ 15]MaterialEditorStats: Shader Count: 2
+[2025.12.17-14.58.15:291][ 15]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.58.55:618][239]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.17-14.58.55:618][239]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.58.55:618][239]MaterialEditorStats: Shader Count: 0
+[2025.12.17-14.58.55:618][239]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.58.55:708][240]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-14.58.55:708][240]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.58.55:708][240]MaterialEditorStats: Shader Count: 2
+[2025.12.17-14.58.55:708][240]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.58.58:162][276]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.17-14.58.58:162][276]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.58.58:162][276]MaterialEditorStats: Shader Count: 0
+[2025.12.17-14.58.58:162][276]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.58.58:346][278]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-14.58.58:347][278]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.58.58:347][278]MaterialEditorStats: Shader Count: 2
+[2025.12.17-14.58.58:347][278]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.59.15:621][287]LogStreaming: Display: FlushAsyncLoading(499): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.17-14.59.15:750][288]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.17-14.59.15:750][288]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.59.15:750][288]MaterialEditorStats: Shader Count: 0
+[2025.12.17-14.59.15:750][288]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.59.15:839][289]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-14.59.15:839][289]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.59.15:839][289]MaterialEditorStats: Shader Count: 2
+[2025.12.17-14.59.15:839][289]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.59.16:148][293]LogMaterial: Warning: [AssetLog] C:\Program Files\Epic Games\UE_5.5\Engine\Content\Functions\Engine_MaterialFunctions01\ImageAdjustment\SceneTextureAverage.uasset: Failed to compile Material for platform PCD3D_SM6, Default Material will be used in game.
+	Only translucent materials can use the scene color node.
+
+[2025.12.17-14.59.17:181][308]LogEditorTransaction: Undo 材质编辑器：新建函数调用
+[2025.12.17-14.59.17:410][308]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.12.17-14.59.17:577][308]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.12.17-14.59.18:731][348]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.17-14.59.18:733][348]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-14.59.18:733][348]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.59.18:733][348]MaterialEditorStats: Shader Count: 4
+[2025.12.17-14.59.18:733][348]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.59.18:868][349]MaterialEditorStats: Base pass shader without light map: 89 instructions
+Stats: Resources Used: 1
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.17-14.59.18:868][349]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.17-14.59.18:868][349]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-14.59.18:868][349]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.59.18:868][349]MaterialEditorStats: Shader Count: 5
+[2025.12.17-14.59.18:868][349]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.59.34:404][234]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.17-14.59.34:404][234]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.59.34:404][234]MaterialEditorStats: Shader Count: 0
+[2025.12.17-14.59.34:404][234]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.59.34:490][235]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-14.59.34:490][235]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.59.34:490][235]MaterialEditorStats: Shader Count: 2
+[2025.12.17-14.59.34:490][235]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.59.35:820][254]LogEditorTransaction: Undo 材质编辑器：新建表达式
+[2025.12.17-14.59.36:047][254]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.12.17-14.59.36:215][254]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.12.17-14.59.37:458][292]MaterialEditorStats: Base pass shader without light map: 89 instructions
+Stats: Resources Used: 1
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.17-14.59.37:458][292]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.17-14.59.37:458][292]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-14.59.37:458][292]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-14.59.37:459][292]MaterialEditorStats: Shader Count: 5
+[2025.12.17-14.59.37:459][292]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-14.59.45:881][416]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 5920.501465
+[2025.12.17-14.59.46:347][423]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.17-14.59.46:347][423]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 5920.902344, Update Interval: 336.336548
+[2025.12.17-15.00.00:953][713]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.17-15.00.00:953][713]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-15.00.00:953][713]MaterialEditorStats: Shader Count: 0
+[2025.12.17-15.00.00:953][713]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-15.00.01:180][715]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-15.00.01:180][715]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-15.00.01:180][715]MaterialEditorStats: Shader Count: 2
+[2025.12.17-15.00.01:182][715]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-15.00.24:073][ 81]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.17-15.00.24:073][ 81]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-15.00.24:073][ 81]MaterialEditorStats: Shader Count: 0
+[2025.12.17-15.00.24:073][ 81]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-15.00.24:265][ 84]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-15.00.24:265][ 84]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-15.00.24:265][ 84]MaterialEditorStats: Shader Count: 2
+[2025.12.17-15.00.24:265][ 84]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-15.00.38:391][441]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.17-15.00.38:391][441]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-15.00.38:391][441]MaterialEditorStats: Shader Count: 0
+[2025.12.17-15.00.38:391][441]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-15.00.38:580][444]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-15.00.38:580][444]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-15.00.38:580][444]MaterialEditorStats: Shader Count: 2
+[2025.12.17-15.00.38:580][444]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-15.00.40:678][490]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.17-15.00.40:678][490]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-15.00.40:678][490]MaterialEditorStats: Shader Count: 0
+[2025.12.17-15.00.40:678][490]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-15.00.40:867][493]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-15.00.40:867][493]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-15.00.40:867][493]MaterialEditorStats: Shader Count: 2
+[2025.12.17-15.00.40:867][493]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-15.00.42:650][536]LogEditorTransaction: Undo 创建引脚连接
+[2025.12.17-15.00.42:877][536]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.12.17-15.00.43:041][536]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.12.17-15.00.45:874][663]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.17-15.00.45:874][663]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-15.00.45:874][663]MaterialEditorStats: Shader Count: 0
+[2025.12.17-15.00.45:874][663]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-15.00.46:091][666]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-15.00.46:091][666]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-15.00.46:091][666]MaterialEditorStats: Shader Count: 2
+[2025.12.17-15.00.46:091][666]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-15.00.59:748][ 25]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.17-15.00.59:748][ 25]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-15.00.59:748][ 25]MaterialEditorStats: Shader Count: 0
+[2025.12.17-15.00.59:748][ 25]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-15.00.59:939][ 28]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-15.00.59:939][ 28]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-15.00.59:939][ 28]MaterialEditorStats: Shader Count: 2
+[2025.12.17-15.00.59:939][ 28]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-15.01.12:389][264]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.17-15.01.12:389][264]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-15.01.12:389][264]MaterialEditorStats: Shader Count: 0
+[2025.12.17-15.01.12:389][264]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-15.01.12:584][267]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-15.01.12:584][267]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-15.01.12:585][267]MaterialEditorStats: Shader Count: 2
+[2025.12.17-15.01.12:585][267]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-15.01.15:679][354]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.17-15.01.15:679][354]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-15.01.15:679][354]MaterialEditorStats: Shader Count: 0
+[2025.12.17-15.01.15:679][354]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-15.01.15:874][357]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-15.01.15:874][357]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-15.01.15:874][357]MaterialEditorStats: Shader Count: 2
+[2025.12.17-15.01.15:874][357]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-15.01.18:308][441]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.17-15.01.18:308][441]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-15.01.18:308][441]MaterialEditorStats: Shader Count: 0
+[2025.12.17-15.01.18:308][441]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-15.01.18:497][444]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-15.01.18:497][444]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-15.01.18:497][444]MaterialEditorStats: Shader Count: 2
+[2025.12.17-15.01.18:497][444]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-15.01.26:986][633]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.17-15.01.26:986][633]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-15.01.26:986][633]MaterialEditorStats: Shader Count: 0
+[2025.12.17-15.01.26:986][633]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-15.01.27:175][636]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-15.01.27:175][636]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-15.01.27:175][636]MaterialEditorStats: Shader Count: 2
+[2025.12.17-15.01.27:175][636]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-15.01.31:021][777]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.17-15.01.31:021][777]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-15.01.31:021][777]MaterialEditorStats: Shader Count: 0
+[2025.12.17-15.01.31:021][777]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-15.01.31:216][780]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-15.01.31:217][780]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-15.01.31:217][780]MaterialEditorStats: Shader Count: 2
+[2025.12.17-15.01.31:217][780]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-15.01.34:451][876]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.17-15.01.34:451][876]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-15.01.34:451][876]MaterialEditorStats: Shader Count: 0
+[2025.12.17-15.01.34:451][876]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-15.01.34:644][879]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-15.01.34:644][879]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-15.01.34:644][879]MaterialEditorStats: Shader Count: 2
+[2025.12.17-15.01.34:644][879]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-15.01.50:879][232]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.17-15.01.50:879][232]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-15.01.50:879][232]MaterialEditorStats: Shader Count: 0
+[2025.12.17-15.01.50:879][232]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-15.01.51:074][235]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-15.01.51:074][235]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-15.01.51:074][235]MaterialEditorStats: Shader Count: 2
+[2025.12.17-15.01.51:074][235]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-15.02.29:443][488]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.17-15.02.29:443][488]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-15.02.29:443][488]MaterialEditorStats: Shader Count: 0
+[2025.12.17-15.02.29:443][488]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-15.02.29:524][489]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-15.02.29:524][489]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-15.02.29:524][489]MaterialEditorStats: Shader Count: 2
+[2025.12.17-15.02.29:524][489]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-15.02.37:104][602]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.17-15.02.37:104][602]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-15.02.37:104][602]MaterialEditorStats: Shader Count: 0
+[2025.12.17-15.02.37:104][602]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-15.02.37:231][605]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-15.02.37:232][605]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-15.02.37:232][605]MaterialEditorStats: Shader Count: 2
+[2025.12.17-15.02.37:232][605]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-15.02.42:711][780]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.17-15.02.42:711][780]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(8)
+[2025.12.17-15.02.42:711][780]MaterialEditorStats: Shader Count: 0
+[2025.12.17-15.02.42:711][780]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.17-15.02.44:578][807]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-15.02.44:578][807]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(8)
+[2025.12.17-15.02.44:578][807]MaterialEditorStats: Shader Count: 2
+[2025.12.17-15.02.44:578][807]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.17-15.03.11:573][273]LogShaderCompilers: Display: ================================================
+[2025.12.17-15.03.11:573][273]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.12.17-15.03.11:573][273]LogShaderCompilers: Display: Total job queries 1,819, among them cache hits 1,365 (75.04%), DDC hits 285 (15.67%), Duplicates 19 (1.04%)
+[2025.12.17-15.03.11:573][273]LogShaderCompilers: Display: Tracking 435 distinct input hashes that result in 295 distinct outputs (67.82%)
+[2025.12.17-15.03.11:573][273]LogShaderCompilers: Display: RAM used: 178.17 KiB of 1.60 GiB budget. Usage: 0.01%
+[2025.12.17-15.03.11:573][273]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.12.17-15.03.11:573][273]LogShaderCompilers: Display: Shaders Compiled: 150
+[2025.12.17-15.03.11:573][273]LogShaderCompilers: Display: Jobs assigned 150, completed 150 (100%)
+[2025.12.17-15.03.11:573][273]LogShaderCompilers: Display: Average time worker was idle: 192.04 s
+[2025.12.17-15.03.11:573][273]LogShaderCompilers: Display: Time job spent in pending queue: average 0.05 s, longest 0.13 s
+[2025.12.17-15.03.11:573][273]LogShaderCompilers: Display: Job execution time: average 1.92 s, max 5.07 s
+[2025.12.17-15.03.11:573][273]LogShaderCompilers: Display: Job life time (pending + execution): average 1.97 s, max 5.08
+[2025.12.17-15.03.11:573][273]LogShaderCompilers: Display: Shader code size: average 7.043 KiB, min 2.188 KiB, max 10.938 KiB
+[2025.12.17-15.03.11:573][273]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 90.27 s
+[2025.12.17-15.03.11:573][273]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.12.17-15.03.11:573][273]LogShaderCompilers: Display: Jobs were issued in 150 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.12.17-15.03.11:573][273]LogShaderCompilers: Display: Average processing rate: 1.66 jobs/sec
+[2025.12.17-15.03.11:573][273]LogShaderCompilers: Display: Total thread time: 72.458 s
+[2025.12.17-15.03.11:573][273]LogShaderCompilers: Display: Total thread preprocess time: 19.403 s
+[2025.12.17-15.03.11:573][273]LogShaderCompilers: Display: Percentage time preprocessing: 26.78%
+[2025.12.17-15.03.11:573][273]LogShaderCompilers: Display: Effective parallelization: 0.80 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.12.17-15.03.11:573][273]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.12.17-15.03.11:573][273]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   16 times, average 0.99 sec, max 1.06 sec, min 0.87 sec)
+[2025.12.17-15.03.11:573][273]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   20 times, average 0.86 sec, max 1.04 sec, min 0.75 sec)
+[2025.12.17-15.03.11:573][273]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    1 times, average 0.72 sec, max 0.72 sec, min 0.72 sec)
+[2025.12.17-15.03.11:573][273]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   21 times, average 0.48 sec, max 0.57 sec, min 0.44 sec)
+[2025.12.17-15.03.11:573][273]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 0.45 sec, max 0.45 sec, min 0.45 sec)
+[2025.12.17-15.03.11:573][273]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.12.17-15.03.11:573][273]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 23.64% of total time (compiled   20 times, average 0.86 sec, max 1.04 sec, min 0.75 sec)
+[2025.12.17-15.03.11:573][273]LogShaderCompilers: Display:                                             FDebugViewModePS - 21.75% of total time (compiled   16 times, average 0.99 sec, max 1.06 sec, min 0.87 sec)
+[2025.12.17-15.03.11:573][273]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 14.01% of total time (compiled   21 times, average 0.48 sec, max 0.57 sec, min 0.44 sec)
+[2025.12.17-15.03.11:573][273]LogShaderCompilers: Display:                                       FPostProcessMaterialPS - 12.46% of total time (compiled   25 times, average 0.36 sec, max 0.40 sec, min 0.28 sec)
+[2025.12.17-15.03.11:573][273]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 8.95% of total time (compiled   21 times, average 0.31 sec, max 0.37 sec, min 0.28 sec)
+[2025.12.17-15.03.11:573][273]LogShaderCompilers: Display: === Material stats ===
+[2025.12.17-15.03.11:573][273]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.12.17-15.03.11:573][273]LogShaderCompilers: Display: Materials Translated:    493
+[2025.12.17-15.03.11:573][273]LogShaderCompilers: Display: Material Total Translate Time: 0.24 s
+[2025.12.17-15.03.11:573][273]LogShaderCompilers: Display: Material Translation Only: 0.15 s (63%)
+[2025.12.17-15.03.11:573][273]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.12.17-15.03.11:573][273]LogShaderCompilers: Display: Material Cache Hits: 41 (8%)
+[2025.12.17-15.03.11:573][273]LogShaderCompilers: Display: ================================================
+[2025.12.17-15.03.27:340][176]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.17-15.03.27:340][176]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(8)
+[2025.12.17-15.03.27:340][176]MaterialEditorStats: Shader Count: 0
+[2025.12.17-15.03.27:340][176]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.17-15.03.27:426][177]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-15.03.27:426][177]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(8)
+[2025.12.17-15.03.27:426][177]MaterialEditorStats: Shader Count: 2
+[2025.12.17-15.03.27:426][177]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.17-15.03.43:833][657]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.17-15.03.43:833][657]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(8)
+[2025.12.17-15.03.43:833][657]MaterialEditorStats: Shader Count: 0
+[2025.12.17-15.03.43:833][657]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.17-15.03.45:090][675]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-15.03.45:090][675]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(8)
+[2025.12.17-15.03.45:090][675]MaterialEditorStats: Shader Count: 2
+[2025.12.17-15.03.45:090][675]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.17-15.04.04:128][ 50]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.17-15.04.04:128][ 50]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(8)
+[2025.12.17-15.04.04:128][ 50]MaterialEditorStats: Shader Count: 0
+[2025.12.17-15.04.04:129][ 50]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.17-15.04.04:727][ 59]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-15.04.04:727][ 59]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(8)
+[2025.12.17-15.04.04:728][ 59]MaterialEditorStats: Shader Count: 2
+[2025.12.17-15.04.04:728][ 59]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.17-15.04.06:926][133]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.17-15.04.06:926][133]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(8)
+[2025.12.17-15.04.06:926][133]MaterialEditorStats: Shader Count: 0
+[2025.12.17-15.04.06:926][133]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.17-15.04.07:536][142]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-15.04.07:536][142]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(8)
+[2025.12.17-15.04.07:536][142]MaterialEditorStats: Shader Count: 2
+[2025.12.17-15.04.07:536][142]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.17-15.04.11:355][251]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.17-15.04.11:355][251]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(8)
+[2025.12.17-15.04.11:355][251]MaterialEditorStats: Shader Count: 0
+[2025.12.17-15.04.11:355][251]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.17-15.04.11:953][260]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-15.04.11:953][260]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(8)
+[2025.12.17-15.04.11:953][260]MaterialEditorStats: Shader Count: 2
+[2025.12.17-15.04.11:953][260]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.17-15.04.24:127][486]LogMaterialEditor: Saving and Compiling material NewMaterial
+[2025.12.17-15.04.24:432][486]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.12.17-15.04.24:599][486]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.12.17-15.04.24:611][486]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.17-15.04.24:680][486]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial] ([1] browsable assets)...
+[2025.12.17-15.04.27:599][486]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial.NewMaterial]
+[2025.12.17-15.04.27:599][486]OBJ SavePackage: Finished generating thumbnails for package [/Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial]
+[2025.12.17-15.04.27:606][486]LogSavePackage: Moving output files for package: /Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial
+[2025.12.17-15.04.27:607][486]LogSavePackage: Moving 'D:/苦逼美术生/游戏小专业/毕设/github/example/SIMIAO/Saved/NewMaterialB411B0374591B50FC75BD89771B7E0A2.tmp' to 'D:/苦逼美术生/游戏小专业/毕设/github/example/SIMIAO/Content/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial.uasset'
+[2025.12.17-15.04.27:629][486]LogFileHelpers: InternalPromptForCheckoutAndSave took 3.01 sec (total: 47.4 sec)
+[2025.12.17-15.04.27:693][486]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.17-15.04.27:693][486]LogContentValidation: Enabled validators:
+[2025.12.17-15.04.27:693][486]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.17-15.04.27:693][486]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.17-15.04.27:693][486]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.17-15.04.27:693][486]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.17-15.04.27:693][486]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.17-15.04.27:693][486]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.17-15.04.27:693][486]AssetCheck: /Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial 正在验证资产
+[2025.12.17-15.04.27:712][486]MaterialEditorStats: Base pass shader without light map: 91 instructions
+Stats: Resources Used: 1
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.17-15.04.27:712][486]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.17-15.04.27:712][486]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-15.04.27:712][486]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(8)
+[2025.12.17-15.04.27:712][486]MaterialEditorStats: Shader Count: 9
+[2025.12.17-15.04.27:712][486]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.17-15.04.34:737][605]LogTexture: Display: 正在构建纹理：/Game/Waveborne_The_Sacred_Threshold/textures/T_Stairs_Bot_Normal.T_Stairs_Bot_Normal （TFO_BC5, 4096x4096 x1x1x1）（预计所需内存：1152.999984 MB），编码速度：Final
+[2025.12.17-15.04.35:484][612]LogTexture: Display: 正在构建纹理：/Game/Waveborne_The_Sacred_Threshold/textures/T_Stairs_Bot_BaseColor.T_Stairs_Bot_BaseColor （TFO_AutoDXT, 4096x4096 x1x1x1）（预计所需内存：1152.999984 MB），编码速度：Final
+[2025.12.17-15.04.35:808][612]LogTexture: Display: 正在构建纹理：/Game/Waveborne_The_Sacred_Threshold/textures/T_Stairs_Bot_OcclusionRoughnessMetallic.T_Stairs_Bot_OcclusionRoughnessMetallic （TFO_AutoDXT, 4096x4096 x1x1x1）（预计所需内存：1152.999984 MB），编码速度：Final
+[2025.12.17-15.05.11:398][252]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.17-15.05.11:398][252]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(8)
+[2025.12.17-15.05.11:398][252]MaterialEditorStats: Shader Count: 0
+[2025.12.17-15.05.11:398][252]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.17-15.05.12:820][273]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-15.05.12:820][273]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(8)
+[2025.12.17-15.05.12:820][273]MaterialEditorStats: Shader Count: 2
+[2025.12.17-15.05.12:820][273]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.17-15.05.18:542][355]LogMaterialEditor: Saving and Compiling material NewMaterial
+[2025.12.17-15.05.18:851][355]LogUObjectHash: Compacting FUObjectHashTables data took   0.86ms
+[2025.12.17-15.05.19:026][355]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.12.17-15.05.19:040][355]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.17-15.05.19:105][355]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial] ([1] browsable assets)...
+[2025.12.17-15.05.22:865][355]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial.NewMaterial]
+[2025.12.17-15.05.22:865][355]OBJ SavePackage: Finished generating thumbnails for package [/Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial]
+[2025.12.17-15.05.22:872][355]LogSavePackage: Moving output files for package: /Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial
+[2025.12.17-15.05.22:872][355]LogSavePackage: Moving 'D:/苦逼美术生/游戏小专业/毕设/github/example/SIMIAO/Saved/NewMaterial80FA02504BC02EB43B86B4BE9A68E166.tmp' to 'D:/苦逼美术生/游戏小专业/毕设/github/example/SIMIAO/Content/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial.uasset'
+[2025.12.17-15.05.22:880][355]LogFileHelpers: InternalPromptForCheckoutAndSave took 3.84 sec (total: 51.3 sec)
+[2025.12.17-15.05.22:945][355]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.17-15.05.22:945][355]LogContentValidation: Enabled validators:
+[2025.12.17-15.05.22:945][355]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.17-15.05.22:945][355]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.17-15.05.22:945][355]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.17-15.05.22:945][355]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.17-15.05.22:945][355]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.17-15.05.22:945][355]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.17-15.05.22:945][355]AssetCheck: /Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial 正在验证资产
+[2025.12.17-15.05.22:964][355]MaterialEditorStats: Base pass shader without light map: 91 instructions
+Stats: Resources Used: 1
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.17-15.05.22:964][355]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.17-15.05.22:964][355]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-15.05.22:964][355]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(8)
+[2025.12.17-15.05.22:964][355]MaterialEditorStats: Shader Count: 9
+[2025.12.17-15.05.22:964][355]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.17-15.05.30:244][473]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.17-15.05.30:244][473]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(8)
+[2025.12.17-15.05.30:244][473]MaterialEditorStats: Shader Count: 0
+[2025.12.17-15.05.30:244][473]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.17-15.05.30:813][482]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-15.05.30:813][482]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(8)
+[2025.12.17-15.05.30:813][482]MaterialEditorStats: Shader Count: 2
+[2025.12.17-15.05.30:813][482]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.17-15.05.31:808][497]LogMaterialEditor: Saving and Compiling material NewMaterial
+[2025.12.17-15.05.32:114][497]LogUObjectHash: Compacting FUObjectHashTables data took   0.68ms
+[2025.12.17-15.05.32:289][497]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.12.17-15.05.32:303][497]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.17-15.05.32:375][497]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial] ([1] browsable assets)...
+[2025.12.17-15.05.33:529][497]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial.NewMaterial]
+[2025.12.17-15.05.33:529][497]OBJ SavePackage: Finished generating thumbnails for package [/Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial]
+[2025.12.17-15.05.33:537][497]LogSavePackage: Moving output files for package: /Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial
+[2025.12.17-15.05.33:537][497]LogSavePackage: Moving 'D:/苦逼美术生/游戏小专业/毕设/github/example/SIMIAO/Saved/NewMaterialE301CF8B43F61E78C98E5388651515E4.tmp' to 'D:/苦逼美术生/游戏小专业/毕设/github/example/SIMIAO/Content/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial.uasset'
+[2025.12.17-15.05.33:556][497]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.25 sec (total: 52.5 sec)
+[2025.12.17-15.05.33:621][497]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.17-15.05.33:621][497]LogContentValidation: Enabled validators:
+[2025.12.17-15.05.33:621][497]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.17-15.05.33:621][497]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.17-15.05.33:621][497]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.17-15.05.33:621][497]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.17-15.05.33:621][497]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.17-15.05.33:621][497]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.17-15.05.33:621][497]AssetCheck: /Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial 正在验证资产
+[2025.12.17-15.05.33:640][497]MaterialEditorStats: Base pass shader without light map: 91 instructions
+Stats: Resources Used: 1
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.17-15.05.33:640][497]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.17-15.05.33:640][497]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-15.05.33:640][497]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(8)
+[2025.12.17-15.05.33:640][497]MaterialEditorStats: Shader Count: 9
+[2025.12.17-15.05.33:640][497]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.17-15.05.37:624][550]LogTexture: Display: 正在构建纹理：/Game/Waveborne_The_Sacred_Threshold/textures/T_Stairs_Sculpt_03_01_BaseColor.T_Stairs_Sculpt_03_01_BaseColor （TFO_AutoDXT, 4096x4096 x1x1x1）（预计所需内存：1152.999984 MB），编码速度：Final
+[2025.12.17-15.05.37:951][550]LogTexture: Display: 正在构建纹理：/Game/Waveborne_The_Sacred_Threshold/textures/T_Stairs_Sculpt_03_01_Normal.T_Stairs_Sculpt_03_01_Normal （TFO_BC5, 4096x4096 x1x1x1）（预计所需内存：1152.999984 MB），编码速度：Final
+[2025.12.17-15.05.38:234][550]LogTexture: Display: 正在构建纹理：/Game/Waveborne_The_Sacred_Threshold/textures/T_Stairs_Sculpt_03_01_OcclusionRoughnessMetallic.T_Stairs_Sculpt_03_01_OcclusionRoughnessMetallic （TFO_AutoDXT, 4096x4096 x1x1x1）（预计所需内存：1152.999984 MB），编码速度：Final
+[2025.12.17-15.05.40:610][605]Cmd: CAMERA ALIGN ACTIVEVIEWPORTONLY
+[2025.12.17-15.05.55:567][823]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6290.155273
+[2025.12.17-15.05.56:068][830]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.17-15.05.56:068][830]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6290.587891, Update Interval: 324.271362
+[2025.12.17-15.06.11:589][ 37]LogShaderCompilers: Display: ================================================
+[2025.12.17-15.06.11:590][ 37]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.12.17-15.06.11:590][ 37]LogShaderCompilers: Display: Total job queries 1,899, among them cache hits 1,421 (74.83%), DDC hits 285 (15.01%), Duplicates 19 (1.00%)
+[2025.12.17-15.06.11:590][ 37]LogShaderCompilers: Display: Tracking 459 distinct input hashes that result in 310 distinct outputs (67.54%)
+[2025.12.17-15.06.11:590][ 37]LogShaderCompilers: Display: RAM used: 184.26 KiB of 1.60 GiB budget. Usage: 0.01%
+[2025.12.17-15.06.11:590][ 37]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.12.17-15.06.11:590][ 37]LogShaderCompilers: Display: Shaders Compiled: 174
+[2025.12.17-15.06.11:590][ 37]LogShaderCompilers: Display: Jobs assigned 174, completed 174 (100%)
+[2025.12.17-15.06.11:590][ 37]LogShaderCompilers: Display: Average time worker was idle: 201.12 s
+[2025.12.17-15.06.11:590][ 37]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.13 s
+[2025.12.17-15.06.11:590][ 37]LogShaderCompilers: Display: Job execution time: average 1.87 s, max 5.07 s
+[2025.12.17-15.06.11:590][ 37]LogShaderCompilers: Display: Job life time (pending + execution): average 1.93 s, max 5.08
+[2025.12.17-15.06.11:590][ 37]LogShaderCompilers: Display: Shader code size: average 7.025 KiB, min 2.188 KiB, max 10.938 KiB
+[2025.12.17-15.06.11:590][ 37]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 101.83 s
+[2025.12.17-15.06.11:590][ 37]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.12.17-15.06.11:590][ 37]LogShaderCompilers: Display: Jobs were issued in 174 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.12.17-15.06.11:590][ 37]LogShaderCompilers: Display: Average processing rate: 1.71 jobs/sec
+[2025.12.17-15.06.11:590][ 37]LogShaderCompilers: Display: Total thread time: 83.029 s
+[2025.12.17-15.06.11:590][ 37]LogShaderCompilers: Display: Total thread preprocess time: 20.097 s
+[2025.12.17-15.06.11:590][ 37]LogShaderCompilers: Display: Percentage time preprocessing: 24.21%
+[2025.12.17-15.06.11:590][ 37]LogShaderCompilers: Display: Effective parallelization: 0.82 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.12.17-15.06.11:590][ 37]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.12.17-15.06.11:590][ 37]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   19 times, average 0.97 sec, max 1.06 sec, min 0.85 sec)
+[2025.12.17-15.06.11:590][ 37]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   23 times, average 0.85 sec, max 1.04 sec, min 0.71 sec)
+[2025.12.17-15.06.11:590][ 37]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    1 times, average 0.72 sec, max 0.72 sec, min 0.72 sec)
+[2025.12.17-15.06.11:590][ 37]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   24 times, average 0.48 sec, max 0.57 sec, min 0.41 sec)
+[2025.12.17-15.06.11:590][ 37]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 0.45 sec, max 0.45 sec, min 0.45 sec)
+[2025.12.17-15.06.11:590][ 37]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.12.17-15.06.11:590][ 37]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 23.45% of total time (compiled   23 times, average 0.85 sec, max 1.04 sec, min 0.71 sec)
+[2025.12.17-15.06.11:590][ 37]LogShaderCompilers: Display:                                             FDebugViewModePS - 22.24% of total time (compiled   19 times, average 0.97 sec, max 1.06 sec, min 0.85 sec)
+[2025.12.17-15.06.11:590][ 37]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 13.81% of total time (compiled   24 times, average 0.48 sec, max 0.57 sec, min 0.41 sec)
+[2025.12.17-15.06.11:590][ 37]LogShaderCompilers: Display:                                       FPostProcessMaterialPS - 12.80% of total time (compiled   31 times, average 0.34 sec, max 0.40 sec, min 0.25 sec)
+[2025.12.17-15.06.11:590][ 37]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 8.84% of total time (compiled   24 times, average 0.31 sec, max 0.37 sec, min 0.28 sec)
+[2025.12.17-15.06.11:590][ 37]LogShaderCompilers: Display: === Material stats ===
+[2025.12.17-15.06.11:590][ 37]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.12.17-15.06.11:590][ 37]LogShaderCompilers: Display: Materials Translated:    507
+[2025.12.17-15.06.11:590][ 37]LogShaderCompilers: Display: Material Total Translate Time: 0.24 s
+[2025.12.17-15.06.11:590][ 37]LogShaderCompilers: Display: Material Translation Only: 0.15 s (63%)
+[2025.12.17-15.06.11:590][ 37]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.12.17-15.06.11:590][ 37]LogShaderCompilers: Display: Material Cache Hits: 41 (8%)
+[2025.12.17-15.06.11:590][ 37]LogShaderCompilers: Display: ================================================
+[2025.12.17-15.08.42:102][433]LogSlate: Window '取色器' being destroyed
+[2025.12.17-15.09.40:023][772]LogEOSSDK: Warning: LogHttp: 00000871CD437E00: HTTP request timed out after 30.00 seconds URL=https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=F596AD7748DDF2EC4585DCB2CA75E652
+[2025.12.17-15.09.40:023][772]LogEOSSDK: Warning: LogHttp: 00000871CD437E00: request failed, libcurl error: 0 (No error)
+[2025.12.17-15.09.40:023][773]LogEOSSDK: Warning: LogHttp: 00000871CD437E00: libcurl info message cache 0 (Found bundle for host: 0x87162080240 [serially])
+[2025.12.17-15.09.40:023][773]LogEOSSDK: Warning: LogHttp: 00000871CD437E00: libcurl info message cache 1 (Re-using existing connection with host api.epicgames.dev)
+[2025.12.17-15.09.40:023][773]LogEOSSDK: Warning: LogHttp: 00000871CD437E00: libcurl info message cache 2 (We are completely uploaded and fine)
+[2025.12.17-15.09.40:023][773]LogEOSSDK: Warning: LogHttp: 00000871CD437E00: libcurl info message cache 3 (Closing connection)
+[2025.12.17-15.09.40:023][773]LogEOSSDK: Warning: LogHttp: 00000871CD437E00: libcurl info message cache 4 (TLSv1.3 (OUT), TLS alert, close notify (256):)
+[2025.12.17-15.09.40:023][773]LogEOSSDK: Warning: LogHttp: Retry exhausted on https://api.epicgames.dev/datarouter/api/v1/public/data/clients?AppID=86f32f1151354e7cb39c12f8ab2c22a3&AppVersion=1.17.0-39599718&AppEnvironment=a01927f7421a4d4995673fe30ef46945&UploadType=eteventstream&SessionID=F596AD7748DDF2EC4585DCB2CA75E652
+[2025.12.17-15.09.40:023][773]LogEOSSDK: Warning: LogEOS: Failed to connect to the backend. ServiceName=[Metrics], OperationName=[SendBackendEvent], Url=[<Redacted>]
+[2025.12.17-15.11.54:730][902]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.17-15.11.54:730][902]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-15.11.54:730][902]MaterialEditorStats: Shader Count: 0
+[2025.12.17-15.11.54:730][902]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-15.11.54:915][905]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-15.11.54:915][905]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-15.11.54:916][905]MaterialEditorStats: Shader Count: 2
+[2025.12.17-15.11.54:916][905]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-15.11.59:942][988]LogMaterialEditor: Saving and Compiling material NewMaterial
+[2025.12.17-15.12.00:246][988]LogUObjectHash: Compacting FUObjectHashTables data took   0.88ms
+[2025.12.17-15.12.00:411][988]LogUObjectHash: Compacting FUObjectHashTables data took   0.39ms
+[2025.12.17-15.12.00:425][988]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.17-15.12.00:491][988]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial] ([1] browsable assets)...
+[2025.12.17-15.12.00:522][988]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial.NewMaterial]
+[2025.12.17-15.12.00:524][988]OBJ SavePackage: Finished generating thumbnails for package [/Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial]
+[2025.12.17-15.12.00:530][988]LogSavePackage: Moving output files for package: /Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial
+[2025.12.17-15.12.00:531][988]LogSavePackage: Moving 'D:/苦逼美术生/游戏小专业/毕设/github/example/SIMIAO/Saved/NewMaterialA09FC7FD434A9ABE4B665CA6FA87F007.tmp' to 'D:/苦逼美术生/游戏小专业/毕设/github/example/SIMIAO/Content/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial.uasset'
+[2025.12.17-15.12.00:541][988]LogFileHelpers: InternalPromptForCheckoutAndSave took 115.415 ms (total: 52.6 sec)
+[2025.12.17-15.12.00:607][988]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.17-15.12.00:607][988]LogContentValidation: Enabled validators:
+[2025.12.17-15.12.00:607][988]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.17-15.12.00:607][988]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.17-15.12.00:607][988]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.17-15.12.00:607][988]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.17-15.12.00:607][988]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.17-15.12.00:607][988]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.17-15.12.00:607][988]AssetCheck: /Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial 正在验证资产
+[2025.12.17-15.12.00:625][988]MaterialEditorStats: Base pass shader without light map: 89 instructions
+Stats: Resources Used: 1
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.17-15.12.00:625][988]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.17-15.12.00:625][988]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-15.12.00:625][988]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(11)
+[2025.12.17-15.12.00:625][988]MaterialEditorStats: Shader Count: 9
+[2025.12.17-15.12.00:625][988]MaterialEditorStats: Preshaders: 5  (5 param fetches, 11 ops)
+[2025.12.17-15.12.07:948][130]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 6662.532227
+[2025.12.17-15.12.09:327][160]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.17-15.12.09:327][160]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 6663.868164, Update Interval: 359.020355
+[2025.12.17-15.12.20:633][449]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.17-15.12.20:633][449]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(8)
+[2025.12.17-15.12.20:633][449]MaterialEditorStats: Shader Count: 0
+[2025.12.17-15.12.20:633][449]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.17-15.12.20:817][452]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-15.12.20:818][452]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(8)
+[2025.12.17-15.12.20:818][452]MaterialEditorStats: Shader Count: 2
+[2025.12.17-15.12.20:818][452]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.17-15.12.21:627][464]LogMaterialEditor: Saving and Compiling material NewMaterial
+[2025.12.17-15.12.21:929][464]LogUObjectHash: Compacting FUObjectHashTables data took   0.62ms
+[2025.12.17-15.12.22:095][464]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.12.17-15.12.22:108][464]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.17-15.12.22:176][464]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial] ([1] browsable assets)...
+[2025.12.17-15.12.22:207][464]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial.NewMaterial]
+[2025.12.17-15.12.22:207][464]OBJ SavePackage: Finished generating thumbnails for package [/Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial]
+[2025.12.17-15.12.22:213][464]LogSavePackage: Moving output files for package: /Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial
+[2025.12.17-15.12.22:214][464]LogSavePackage: Moving 'D:/苦逼美术生/游戏小专业/毕设/github/example/SIMIAO/Saved/NewMaterialAEFF51454A9150A30535A988CD68C99E.tmp' to 'D:/苦逼美术生/游戏小专业/毕设/github/example/SIMIAO/Content/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial.uasset'
+[2025.12.17-15.12.22:225][464]LogFileHelpers: InternalPromptForCheckoutAndSave took 116.224 ms (total: 52.8 sec)
+[2025.12.17-15.12.22:286][464]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.17-15.12.22:286][464]LogContentValidation: Enabled validators:
+[2025.12.17-15.12.22:287][464]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.17-15.12.22:287][464]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.17-15.12.22:287][464]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.17-15.12.22:287][464]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.17-15.12.22:287][464]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.17-15.12.22:287][464]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.17-15.12.22:287][464]AssetCheck: /Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial 正在验证资产
+[2025.12.17-15.12.22:305][464]MaterialEditorStats: Base pass shader without light map: 91 instructions
+Stats: Resources Used: 1
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.17-15.12.22:305][464]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.17-15.12.22:305][464]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-15.12.22:305][464]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(8)
+[2025.12.17-15.12.22:305][464]MaterialEditorStats: Shader Count: 9
+[2025.12.17-15.12.22:305][464]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.17-15.12.27:690][552]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.17-15.12.27:690][552]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(8)
+[2025.12.17-15.12.27:690][552]MaterialEditorStats: Shader Count: 0
+[2025.12.17-15.12.27:690][552]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.17-15.12.29:620][582]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-15.12.29:620][582]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(8)
+[2025.12.17-15.12.29:620][582]MaterialEditorStats: Shader Count: 2
+[2025.12.17-15.12.29:620][582]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.17-15.12.33:036][632]MaterialEditorStats: Texture samplers: 0/16
+[2025.12.17-15.12.33:036][632]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(8)
+[2025.12.17-15.12.33:036][632]MaterialEditorStats: Shader Count: 0
+[2025.12.17-15.12.33:036][632]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.17-15.12.33:566][641]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-15.12.33:567][641]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(8)
+[2025.12.17-15.12.33:567][641]MaterialEditorStats: Shader Count: 2
+[2025.12.17-15.12.33:567][641]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.17-15.12.34:436][654]LogMaterialEditor: Saving and Compiling material NewMaterial
+[2025.12.17-15.12.34:742][654]LogUObjectHash: Compacting FUObjectHashTables data took   0.64ms
+[2025.12.17-15.12.34:909][654]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.12.17-15.12.34:923][654]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.17-15.12.34:989][654]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial] ([1] browsable assets)...
+[2025.12.17-15.12.38:216][654]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial.NewMaterial]
+[2025.12.17-15.12.38:216][654]OBJ SavePackage: Finished generating thumbnails for package [/Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial]
+[2025.12.17-15.12.38:223][654]LogSavePackage: Moving output files for package: /Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial
+[2025.12.17-15.12.38:223][654]LogSavePackage: Moving 'D:/苦逼美术生/游戏小专业/毕设/github/example/SIMIAO/Saved/NewMaterialDFC2ABE64B83036FAEAAC4B5EC58B930.tmp' to 'D:/苦逼美术生/游戏小专业/毕设/github/example/SIMIAO/Content/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial.uasset'
+[2025.12.17-15.12.38:233][654]LogFileHelpers: InternalPromptForCheckoutAndSave took 3.30 sec (total: 56.1 sec)
+[2025.12.17-15.12.38:299][654]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.17-15.12.38:299][654]LogContentValidation: Enabled validators:
+[2025.12.17-15.12.38:299][654]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.17-15.12.38:299][654]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.17-15.12.38:299][654]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.17-15.12.38:299][654]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.17-15.12.38:299][654]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.17-15.12.38:299][654]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.17-15.12.38:299][654]AssetCheck: /Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial 正在验证资产
+[2025.12.17-15.12.38:317][654]MaterialEditorStats: Base pass shader without light map: 91 instructions
+Stats: Resources Used: 1
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.17-15.12.38:317][654]MaterialEditorStats: Base pass vertex shader: 145 instructions
+Stats: Resources Used: 4
+Resource Limit: 64
+Samplers Used: 0
+Sampler Limit: 32
+
+[2025.12.17-15.12.38:317][654]MaterialEditorStats: Texture samplers: 1/16
+[2025.12.17-15.12.38:317][654]MaterialEditorStats: Texture Lookups (Est.): VS(0), PS(8)
+[2025.12.17-15.12.38:317][654]MaterialEditorStats: Shader Count: 9
+[2025.12.17-15.12.38:317][654]MaterialEditorStats: Preshaders: 2  (2 param fetches, 4 ops)
+[2025.12.17-15.13.37:402][938]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.17-15.13.37:572][938]LogUObjectHash: Compacting FUObjectHashTables data took   0.37ms
+[2025.12.17-15.13.38:647][938]LogSavePackage: Moving output files for package: /Game/Waveborne_The_Sacred_Threshold/map/LV_Waveborne_The_Sacred_Threshold
+[2025.12.17-15.13.38:647][938]LogSavePackage: Moving 'D:/苦逼美术生/游戏小专业/毕设/github/example/SIMIAO/Saved/LV_Waveborne_The_Sacred_Threshol7B10F1E74DD144BD6141F09A7B9ED675.tmp' to 'D:/苦逼美术生/游戏小专业/毕设/github/example/SIMIAO/Content/Waveborne_The_Sacred_Threshold/map/LV_Waveborne_The_Sacred_Threshold.umap'
+[2025.12.17-15.13.38:674][938]LogFileHelpers: 所有文件已保存。
+[2025.12.17-15.13.38:674][938]LogFileHelpers: Saving map 'LV_Waveborne_The_Sacred_Threshold' took 1.134
+[2025.12.17-15.13.38:684][938]LogFileHelpers: InternalPromptForCheckoutAndSave took 1.28 sec (total: 57.3 sec)
+[2025.12.17-15.13.38:778][938]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.17-15.13.38:778][938]LogContentValidation: Enabled validators:
+[2025.12.17-15.13.38:778][938]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.17-15.13.38:778][938]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.17-15.13.38:778][938]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.17-15.13.38:778][938]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.17-15.13.38:778][938]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.17-15.13.38:778][938]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.17-15.13.38:780][938]AssetCheck: /Game/Waveborne_The_Sacred_Threshold/map/LV_Waveborne_The_Sacred_Threshold 正在验证资产
+[2025.12.17-15.14.29:093][163]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.12.17-15.15.11:837][935]LogShaderCompilers: Display: ================================================
+[2025.12.17-15.15.11:837][935]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.12.17-15.15.11:837][935]LogShaderCompilers: Display: Total job queries 1,964, among them cache hits 1,478 (75.25%), DDC hits 285 (14.51%), Duplicates 19 (0.97%)
+[2025.12.17-15.15.11:837][935]LogShaderCompilers: Display: Tracking 467 distinct input hashes that result in 315 distinct outputs (67.45%)
+[2025.12.17-15.15.11:837][935]LogShaderCompilers: Display: RAM used: 186.29 KiB of 1.60 GiB budget. Usage: 0.01%
+[2025.12.17-15.15.11:837][935]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.12.17-15.15.11:837][935]LogShaderCompilers: Display: Shaders Compiled: 182
+[2025.12.17-15.15.11:837][935]LogShaderCompilers: Display: Jobs assigned 182, completed 182 (100%)
+[2025.12.17-15.15.11:837][935]LogShaderCompilers: Display: Average time worker was idle: 206.36 s
+[2025.12.17-15.15.11:837][935]LogShaderCompilers: Display: Time job spent in pending queue: average 0.06 s, longest 0.13 s
+[2025.12.17-15.15.11:837][935]LogShaderCompilers: Display: Job execution time: average 1.88 s, max 5.07 s
+[2025.12.17-15.15.11:837][935]LogShaderCompilers: Display: Job life time (pending + execution): average 1.94 s, max 5.08
+[2025.12.17-15.15.11:837][935]LogShaderCompilers: Display: Shader code size: average 7.021 KiB, min 2.188 KiB, max 10.938 KiB
+[2025.12.17-15.15.11:837][935]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 107.16 s
+[2025.12.17-15.15.11:837][935]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.01%
+[2025.12.17-15.15.11:837][935]LogShaderCompilers: Display: Jobs were issued in 182 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.12.17-15.15.11:837][935]LogShaderCompilers: Display: Average processing rate: 1.70 jobs/sec
+[2025.12.17-15.15.11:837][935]LogShaderCompilers: Display: Total thread time: 86.558 s
+[2025.12.17-15.15.11:837][935]LogShaderCompilers: Display: Total thread preprocess time: 20.688 s
+[2025.12.17-15.15.11:837][935]LogShaderCompilers: Display: Percentage time preprocessing: 23.90%
+[2025.12.17-15.15.11:837][935]LogShaderCompilers: Display: Effective parallelization: 0.81 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2025.12.17-15.15.11:837][935]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.12.17-15.15.11:837][935]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   20 times, average 0.97 sec, max 1.06 sec, min 0.85 sec)
+[2025.12.17-15.15.11:837][935]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   24 times, average 0.84 sec, max 1.04 sec, min 0.71 sec)
+[2025.12.17-15.15.11:837][935]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled    1 times, average 0.72 sec, max 0.72 sec, min 0.72 sec)
+[2025.12.17-15.15.11:837][935]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled   25 times, average 0.48 sec, max 0.57 sec, min 0.41 sec)
+[2025.12.17-15.15.11:837][935]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled    1 times, average 0.45 sec, max 0.45 sec, min 0.45 sec)
+[2025.12.17-15.15.11:837][935]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.12.17-15.15.11:837][935]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 23.41% of total time (compiled   24 times, average 0.84 sec, max 1.04 sec, min 0.71 sec)
+[2025.12.17-15.15.11:837][935]LogShaderCompilers: Display:                                             FDebugViewModePS - 22.34% of total time (compiled   20 times, average 0.97 sec, max 1.06 sec, min 0.85 sec)
+[2025.12.17-15.15.11:837][935]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 13.75% of total time (compiled   25 times, average 0.48 sec, max 0.57 sec, min 0.41 sec)
+[2025.12.17-15.15.11:837][935]LogShaderCompilers: Display:                                       FPostProcessMaterialPS - 12.91% of total time (compiled   33 times, average 0.34 sec, max 0.40 sec, min 0.25 sec)
+[2025.12.17-15.15.11:837][935]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 8.83% of total time (compiled   25 times, average 0.31 sec, max 0.37 sec, min 0.28 sec)
+[2025.12.17-15.15.11:837][935]LogShaderCompilers: Display: === Material stats ===
+[2025.12.17-15.15.11:837][935]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.12.17-15.15.11:837][935]LogShaderCompilers: Display: Materials Translated:    517
+[2025.12.17-15.15.11:837][935]LogShaderCompilers: Display: Material Total Translate Time: 0.25 s
+[2025.12.17-15.15.11:837][935]LogShaderCompilers: Display: Material Translation Only: 0.16 s (63%)
+[2025.12.17-15.15.11:837][935]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.12.17-15.15.11:837][935]LogShaderCompilers: Display: Material Cache Hits: 41 (8%)
+[2025.12.17-15.15.11:837][935]LogShaderCompilers: Display: ================================================
+[2025.12.17-15.18.27:463][ 69]LogSlate: Window '消息' being destroyed
+[2025.12.17-15.18.27:472][ 69]Message dialog closed, result: Cancel, title: 消息, text: 是否将修改材质的变更应用到原材质？
+/Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial.NewMaterial
+（选择“否”将丢失所有变更！）
+[2025.12.17-15.18.29:178][ 97]LogMaterialEditor: Saving and Compiling material NewMaterial
+[2025.12.17-15.18.29:402][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.45ms
+[2025.12.17-15.18.29:565][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.12.17-15.18.29:578][ 97]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2025.12.17-15.18.29:647][ 97]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial] ([1] browsable assets)...
+[2025.12.17-15.18.29:765][ 97]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial.NewMaterial]
+[2025.12.17-15.18.29:765][ 97]OBJ SavePackage: Finished generating thumbnails for package [/Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial]
+[2025.12.17-15.18.29:772][ 97]LogSavePackage: Moving output files for package: /Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial
+[2025.12.17-15.18.29:773][ 97]LogSavePackage: Moving 'D:/苦逼美术生/游戏小专业/毕设/github/example/SIMIAO/Saved/NewMaterialC226B63E4B0347243BB2ACAEF10C835D.tmp' to 'D:/苦逼美术生/游戏小专业/毕设/github/example/SIMIAO/Content/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial.uasset'
+[2025.12.17-15.18.29:783][ 97]LogFileHelpers: InternalPromptForCheckoutAndSave took 204.856 ms (total: 57.6 sec)
+[2025.12.17-15.18.29:847][ 97]LogContentValidation: Display: Starting to validate 1 assets
+[2025.12.17-15.18.29:847][ 97]LogContentValidation: Enabled validators:
+[2025.12.17-15.18.29:847][ 97]LogContentValidation: 	/Script/DataValidation.EditorValidator_Material
+[2025.12.17-15.18.29:847][ 97]LogContentValidation: 	/Script/DataValidation.DirtyFilesChangelistValidator
+[2025.12.17-15.18.29:847][ 97]LogContentValidation: 	/Script/DataValidation.EditorValidator_Localization
+[2025.12.17-15.18.29:847][ 97]LogContentValidation: 	/Script/DataValidation.PackageFileValidator
+[2025.12.17-15.18.29:847][ 97]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
+[2025.12.17-15.18.29:847][ 97]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
+[2025.12.17-15.18.29:847][ 97]AssetCheck: /Game/Waveborne_The_Sacred_Threshold/map/scanmaterial/NewMaterial 正在验证资产
+[2025.12.17-15.18.31:347][119]LogSlate: Window 'NewMaterial' being destroyed
+[2025.12.17-15.18.31:384][119]LogSlate: Window 'NewMaterial' being destroyed
+[2025.12.17-15.18.33:000][150]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.12.17-15.18.36:241][222]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.12.17-15.18.36:280][222]LogStall: Shutdown...
+[2025.12.17-15.18.36:280][222]LogStall: Shutdown complete.
+[2025.12.17-15.18.36:314][222]LogSlate: Window 'SIMIAO - 虚幻编辑器' being destroyed
+[2025.12.17-15.18.36:316][222]LogWindowsTextInputMethodSystem: Activated input method: 简体中文(中国大陆) - 微软拼音 (TSF IME).
+[2025.12.17-15.18.37:266][222]Cmd: QUIT_EDITOR
+[2025.12.17-15.18.37:266][223]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2025.12.17-15.18.37:270][223]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2025.12.17-15.18.37:270][223]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2025.12.17-15.18.37:270][223]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2025.12.17-15.18.37:364][223]LogWorld: UWorld::CleanupWorld for LV_Waveborne_The_Sacred_Threshold, bSessionEnded=true, bCleanupResources=true
+[2025.12.17-15.18.37:372][223]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.17-15.18.37:382][223]LogStylusInput: Shutting down StylusInput subsystem.
+[2025.12.17-15.18.37:383][223]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2025.12.17-15.18.37:386][223]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2025.12.17-15.18.37:386][223]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.17-15.18.37:387][223]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2025.12.17-15.18.37:387][223]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.17-15.18.37:387][223]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2025.12.17-15.18.37:387][223]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.17-15.18.37:387][223]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2025.12.17-15.18.37:387][223]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2025.12.17-15.18.37:388][223]LogStudioTelemetry: Ended StudioTelemetry Session
+[2025.12.17-15.18.37:400][223]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroying ET Analytics provider
+[2025.12.17-15.18.37:400][223]LogAnalytics: Display: [UEEditor.Rocket.Release] Ended ET Analytics provider session
+[2025.12.17-15.18.37:400][223]LogAnalytics: Display: [UEEditor.Rocket.Release] Destroyed ET Analytics provider
+[2025.12.17-15.18.37:414][223]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2025.12.17-15.18.37:414][223]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2025.12.17-15.18.37:414][223]LogAudio: Display: Audio Device unregistered from world 'LV_Waveborne_The_Sacred_Threshold'.
+[2025.12.17-15.18.37:414][223]LogAudio: Display: Shutting down audio device while 1 references to it are still alive. For more information, compile with INSTRUMENT_AUDIODEVICE_HANDLES.
+[2025.12.17-15.18.37:414][223]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.12.17-15.18.37:416][223]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2025.12.17-15.18.37:425][223]LogAudioMixer: Deinitializing Audio Bus Subsystem for audio device with ID -1
+[2025.12.17-15.18.37:425][223]LogAudio: Display: Audio Device Manager Shutdown
+[2025.12.17-15.18.37:428][223]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2025.12.17-15.18.37:428][223]LogExit: Preparing to exit.
+[2025.12.17-15.18.37:456][223]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2025.12.17-15.18.37:968][223]LogEditorDataStorage: Deinitializing
+[2025.12.17-15.18.38:140][223]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2025.12.17-15.18.38:176][223]LogExit: Editor shut down
+[2025.12.17-15.18.38:182][223]LogExit: Transaction tracking system shut down
+[2025.12.17-15.18.38:556][223]LogExit: Object subsystem successfully closed.
+[2025.12.17-15.18.38:625][223]LogShaderCompilers: Display: Shaders left to compile 0
+[2025.12.17-15.18.38:953][223]LogMemoryProfiler: Shutdown
+[2025.12.17-15.18.38:953][223]LogNetworkingProfiler: Shutdown
+[2025.12.17-15.18.38:953][223]LoadingProfiler: Shutdown
+[2025.12.17-15.18.38:953][223]LogTimingProfiler: Shutdown
+[2025.12.17-15.18.39:348][223]LogChaosDD: Chaos Debug Draw Shutdown
+[2025.12.17-15.18.39:389][223]LogHttp: Warning: [FHttpManager::Shutdown] Unbinding delegates for 1 outstanding Http Requests:
+[2025.12.17-15.18.39:389][223]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B54D6D275-4386-45FF-4786-05BF65FFE120%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.5.4-40574608%2B%2B%2BUE5%2BRelease-5.5&UserID=702cd0cd4a95fcc17b40c998b26414ef%7C98828f24633847d4aa064d4373e58b96%7Cb9aff953-107f-4874-aba4-ab4927b9c8d7&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[2] status=Processing
+[2025.12.17-15.18.40:433][223]LogEOSSDK: FEOSSDKManager::Shutdown EOS_Shutdown Result=[EOS_Success]
+[2025.12.17-15.18.40:437][223]LogStudioTelemetry: Display: Shutdown StudioTelemetry Module
+[2025.12.17-15.18.40:437][223]LogNFORDenoise: NFORDenoise function shutting down
+[2025.12.17-15.18.40:437][223]RenderDocPlugin: plugin has been unloaded.
+[2025.12.17-15.18.40:441][223]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetActorFactory id: 0
+[2025.12.17-15.18.40:441][223]LogIris: FNetObjectFactoryRegistry::UnregisterFactory is unregistering factory: None name: NetSubObjectFactory id: 1
+[2025.12.17-15.18.40:441][223]LogPakFile: Destroying PakPlatformFile
+[2025.12.17-15.18.41:564][223]LogD3D12RHI: ~FD3D12DynamicRHI
+[2025.12.17-15.18.41:616][223]LogExit: Exiting.
+[2025.12.17-15.18.41:644][223]Log file closed, 12/17/25 23:18:41
