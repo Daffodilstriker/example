@@ -4048,3 +4048,6 @@ Sampler Limit: 32
 [2025.12.17-14.16.24:454][540]LogContentValidation: 	/Script/DataValidation.WorldPartitionChangelistValidator
 [2025.12.17-14.16.24:454][540]LogContentValidation: 	/Script/InputBlueprintNodes.EnhancedInputUserWidgetValidator
 [2025.12.17-14.16.24:456][540]AssetCheck: /Game/Waveborne_The_Sacred_Threshold/map/LV_Waveborne_The_Sacred_Threshold 正在验证资产
+[2025.12.17-14.20.48:866][518]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 3583.631104
+[2025.12.17-14.20.49:865][521]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.17-14.20.49:865][521]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 3584.297363, Update Interval: 350.362854
