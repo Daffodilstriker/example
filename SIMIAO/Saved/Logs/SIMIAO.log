@@ -4009,3 +4009,55 @@ Sampler Limit: 32
 [2025.12.17-06.47.11:876][854]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1678.998901, Update Interval: 347.469727
 [2025.12.17-06.47.13:170][932]LogSlate: Window 'NewMaterial' being destroyed
 [2025.12.17-06.47.13:183][932]LogSlate: Window 'NewMaterial' being destroyed
+[2025.12.17-06.49.16:577][640]LogShaderCompilers: Display: ================================================
+[2025.12.17-06.49.16:577][640]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2025.12.17-06.49.16:577][640]LogShaderCompilers: Display: Total job queries 1,367, among them cache hits 820 (59.99%), DDC hits 291 (21.29%), Duplicates 13 (0.95%)
+[2025.12.17-06.49.16:577][640]LogShaderCompilers: Display: Tracking 534 distinct input hashes that result in 395 distinct outputs (73.97%)
+[2025.12.17-06.49.16:577][640]LogShaderCompilers: Display: RAM used: 254.31 KiB of 1.60 GiB budget. Usage: 0.02%
+[2025.12.17-06.49.16:577][640]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2025.12.17-06.49.16:577][640]LogShaderCompilers: Display: Shaders Compiled: 243
+[2025.12.17-06.49.16:577][640]LogShaderCompilers: Display: Jobs assigned 243, completed 243 (100%)
+[2025.12.17-06.49.16:577][640]LogShaderCompilers: Display: Average time worker was idle: 46.62 s
+[2025.12.17-06.49.16:577][640]LogShaderCompilers: Display: Time job spent in pending queue: average 0.41 s, longest 3.12 s
+[2025.12.17-06.49.16:577][640]LogShaderCompilers: Display: Job execution time: average 0.70 s, max 3.03 s
+[2025.12.17-06.49.16:577][640]LogShaderCompilers: Display: Job life time (pending + execution): average 1.11 s, max 3.46
+[2025.12.17-06.49.16:577][640]LogShaderCompilers: Display: Shader code size: average 7.869 KiB, min 2.379 KiB, max 14.348 KiB
+[2025.12.17-06.49.16:577][640]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 38.63 s
+[2025.12.17-06.49.16:577][640]LogShaderCompilers: Display: Mutex wait stall in FShaderJobCache::SubmitJobs:  0.20%
+[2025.12.17-06.49.16:577][640]LogShaderCompilers: Display: Jobs were issued in 243 batches (only local compilation was used), average 1.00 jobs/batch
+[2025.12.17-06.49.16:577][640]LogShaderCompilers: Display: Average processing rate: 6.29 jobs/sec
+[2025.12.17-06.49.16:577][640]LogShaderCompilers: Display: Total thread time: 81.52 s
+[2025.12.17-06.49.16:577][640]LogShaderCompilers: Display: Total thread preprocess time: 14.416 s
+[2025.12.17-06.49.16:577][640]LogShaderCompilers: Display: Percentage time preprocessing: 17.68%
+[2025.12.17-06.49.16:577][640]LogShaderCompilers: Display: Effective parallelization: 2.11 (times faster than compiling all shaders on one thread). Compare with number of workers: 16
+[2025.12.17-06.49.16:577][640]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2025.12.17-06.49.16:577][640]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    2 times, average 0.68 sec, max 0.76 sec, min 0.59 sec)
+[2025.12.17-06.49.16:577][640]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled   29 times, average 0.66 sec, max 0.98 sec, min 0.49 sec)
+[2025.12.17-06.49.16:577][640]LogShaderCompilers: Display:                                             FDebugViewModePS (compiled   10 times, average 0.60 sec, max 0.61 sec, min 0.58 sec)
+[2025.12.17-06.49.16:577][640]LogShaderCompilers: Display:                                      FPathTracingMaterialCHS (compiled   10 times, average 0.44 sec, max 0.46 sec, min 0.42 sec)
+[2025.12.17-06.49.16:577][640]LogShaderCompilers: Display:                         TBasePassPSFNoLightMapPolicySkylight (compiled   16 times, average 0.36 sec, max 0.60 sec, min 0.24 sec)
+[2025.12.17-06.49.16:577][640]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2025.12.17-06.49.16:577][640]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 23.45% of total time (compiled   29 times, average 0.66 sec, max 0.98 sec, min 0.49 sec)
+[2025.12.17-06.49.16:577][640]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 13.94% of total time (compiled   34 times, average 0.33 sec, max 0.58 sec, min 0.23 sec)
+[2025.12.17-06.49.16:577][640]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 10.68% of total time (compiled   39 times, average 0.22 sec, max 0.34 sec, min 0.17 sec)
+[2025.12.17-06.49.16:577][640]LogShaderCompilers: Display:                                                 FLumenCardPS - 9.80% of total time (compiled   30 times, average 0.27 sec, max 0.43 sec, min 0.20 sec)
+[2025.12.17-06.49.16:577][640]LogShaderCompilers: Display:                                                 FLumenCardVS - 8.63% of total time (compiled   30 times, average 0.23 sec, max 0.38 sec, min 0.17 sec)
+[2025.12.17-06.49.16:577][640]LogShaderCompilers: Display: === Material stats ===
+[2025.12.17-06.49.16:577][640]LogShaderCompilers: Display: Materials Cooked:        0
+[2025.12.17-06.49.16:577][640]LogShaderCompilers: Display: Materials Translated:    332
+[2025.12.17-06.49.16:577][640]LogShaderCompilers: Display: Material Total Translate Time: 0.15 s
+[2025.12.17-06.49.16:577][640]LogShaderCompilers: Display: Material Translation Only: 0.06 s (39%)
+[2025.12.17-06.49.16:577][640]LogShaderCompilers: Display: Material DDC Serialization Only: 0.00 s (1%)
+[2025.12.17-06.49.16:577][640]LogShaderCompilers: Display: Material Cache Hits: 26 (8%)
+[2025.12.17-06.49.16:577][640]LogShaderCompilers: Display: ================================================
+[2025.12.17-06.52.22:049][651]LogUObjectHash: Compacting FUObjectHashTables data took   0.47ms
+[2025.12.17-06.52.22:077][651]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Waveborne_The_Sacred_Threshold/map/LV_Overview_Auto3
+[2025.12.17-06.52.22:077][651]LogSavePackage: Moving 'F:/毕设项目/example/SIMIAO/Saved/LV_Overview_Auto3D4F45A944D5EAA881AB4459E5555D08C.tmp' to 'F:/毕设项目/example/SIMIAO/Saved/Autosaves/Game/Waveborne_The_Sacred_Threshold/map/LV_Overview_Auto3.umap'
+[2025.12.17-06.52.22:078][651]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Waveborne_The_Sacred_Threshold/map/LV_Overview' took 0.038
+[2025.12.17-06.52.22:078][651]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.038
+[2025.12.17-06.52.22:078][651]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Waveborne_The_Sacred_Threshold/ww/NewMaterial] ([1] browsable assets)...
+[2025.12.17-06.52.22:201][651]OBJ SavePackage:     Rendered thumbnail for [Material /Game/Waveborne_The_Sacred_Threshold/ww/NewMaterial.NewMaterial]
+[2025.12.17-06.52.22:201][651]OBJ SavePackage: Finished generating thumbnails for package [/Game/Waveborne_The_Sacred_Threshold/ww/NewMaterial]
+[2025.12.17-06.52.22:203][651]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/Waveborne_The_Sacred_Threshold/ww/NewMaterial_Auto3
+[2025.12.17-06.52.22:203][651]LogSavePackage: Moving 'F:/毕设项目/example/SIMIAO/Saved/NewMaterial_Auto3535E8218400A17C2ABC4099A5BFDAF35.tmp' to 'F:/毕设项目/example/SIMIAO/Saved/Autosaves/Game/Waveborne_The_Sacred_Threshold/ww/NewMaterial_Auto3.uasset'
+[2025.12.17-06.52.22:203][651]LogFileHelpers: Auto-saving content packages took 0.126
