@@ -2869,3 +2869,77 @@ LogConfig: Set CVar [[r.VRS.ContrastAdaptiveShading:1]]
 [2025.12.17-10.56.17:990][837]LogInterchangeEngine: [等待处理] 正在导入 - Operation completed.
 [2025.12.17-10.56.17:990][837]LogInterchangeEngine: [成功] 导入完成
 [2025.12.17-10.56.18:017][838]LogMaterial: Display: Material /Game/Waveborne_The_Sacred_Threshold/ww/text/aaa.aaa needed to have new flag set bUsedWithNanite !
+[2025.12.17-11.01.16:705][657]LogUObjectHash: Compacting FUObjectHashTables data took   0.44ms
+[2025.12.17-11.01.17:815][657]LogSlate: Window 'Delete Assets' being destroyed
+[2025.12.17-11.01.17:840][657]LogUObjectHash: Compacting FUObjectHashTables data took   0.40ms
+[2025.12.17-11.01.17:849][657]LogUObjectHash: Compacting FUObjectHashTables data took   0.31ms
+[2025.12.17-11.01.17:857][657]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2025.12.17-11.01.42:364][759]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 1717.919189
+[2025.12.17-11.01.43:378][762]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.17-11.01.43:378][762]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 1718.670654, Update Interval: 309.695740
+[2025.12.17-11.02.03:675][839]LogSlate: Window '导入内容' being destroyed
+[2025.12.17-11.02.03:720][839]LogInterchangeEngine: [等待处理] 正在导入
+[2025.12.17-11.02.04:054][839]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background, due to setting PNGInfill == OnlyOnBinaryTransparency
+[2025.12.17-11.02.04:122][839]LogStaticMesh: Built static mesh [0.00s] /Game/Waveborne_The_Sacred_Threshold/ww/text/aaamodel.aaamodel
+[2025.12.17-11.02.04:131][839]LogInterchangeEngine: [等待处理] 正在导入 - Operation completed.
+[2025.12.17-11.02.04:131][839]LogInterchangeEngine: [成功] 导入完成
+[2025.12.17-11.02.04:333][842]LogRHI: Error: GpuProfiler's scratch buffer is out of space for this frame (current size : 32 kB). Dropping this frame. The size can be increased dynamically with the console variable r.GpuProfilerMaxEventBufferSizeKB
+[2025.12.17-11.02.14:342][424]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Waveborne_The_Sacred_Threshold/ww/text/aaamodel.aaamodel
+[2025.12.17-11.02.14:342][424]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Waveborne_The_Sacred_Threshold/ww/text/aaamodel.aaamodel
+[2025.12.17-11.02.14:344][424]LogActorFactory: Actor Factory spawned StaticMesh /Game/Waveborne_The_Sacred_Threshold/ww/text/aaamodel.aaamodel as actor: StaticMeshActor /Temp/Untitled_1.Untitled_1:PersistentLevel.StaticMeshActor_2
+[2025.12.17-11.02.14:645][441]LogUObjectHash: Compacting FUObjectHashTables data took   0.35ms
+[2025.12.17-11.02.14:646][441]LogEditorActor: Deleted 0 Actors (0.017 secs)
+[2025.12.17-11.02.14:653][441]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Waveborne_The_Sacred_Threshold/ww/text/aaamodel.aaamodel
+[2025.12.17-11.02.14:653][441]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Waveborne_The_Sacred_Threshold/ww/text/aaamodel.aaamodel
+[2025.12.17-11.02.14:654][441]LogActorFactory: Actor Factory spawned StaticMesh /Game/Waveborne_The_Sacred_Threshold/ww/text/aaamodel.aaamodel as actor: StaticMeshActor /Temp/Untitled_1.Untitled_1:PersistentLevel.StaticMeshActor_UAID_E89C25CECA4486AC02_2038640713
+[2025.12.17-11.02.33:774][577]Cmd: DELETE
+[2025.12.17-11.02.33:774][577]Cmd: ACTOR DELETE
+[2025.12.17-11.02.33:777][577]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.17-11.02.33:784][577]LogUObjectHash: Compacting FUObjectHashTables data took   0.22ms
+[2025.12.17-11.02.33:785][577]LogEditorActor: Deleted 1 Actors (0.011 secs)
+[2025.12.17-11.02.38:260][842]LogUObjectHash: Compacting FUObjectHashTables data took   0.18ms
+[2025.12.17-11.02.40:958][842]LogSlate: Window 'Delete Assets' being destroyed
+[2025.12.17-11.02.40:981][842]LogUObjectHash: Compacting FUObjectHashTables data took   0.33ms
+[2025.12.17-11.02.40:990][842]LogUObjectHash: Compacting FUObjectHashTables data took   0.32ms
+[2025.12.17-11.02.40:999][842]LogUObjectHash: Compacting FUObjectHashTables data took   0.23ms
+[2025.12.17-11.07.35:162][635]LogSlate: Window '导入内容' being destroyed
+[2025.12.17-11.07.35:211][635]LogInterchangeEngine: [等待处理] 正在导入
+[2025.12.17-11.07.35:211][635]LogInterchangeEngine: [等待处理] 正在导入 - Operation was canceled by user.
+[2025.12.17-11.07.35:211][635]LogInterchangeEngine: [成功] 导入已取消
+[2025.12.17-11.07.35:299][638]LogRHI: Error: GpuProfiler's scratch buffer is out of space for this frame (current size : 32 kB). Dropping this frame. The size can be increased dynamically with the console variable r.GpuProfilerMaxEventBufferSizeKB
+[2025.12.17-11.07.52:538][793]LogEOSSDK: LogEOS: Updating Product SDK Config, Time: 2088.090576
+[2025.12.17-11.07.53:189][800]LogEOSSDK: LogEOS: SDK Config Product Update Request Completed - No Change
+[2025.12.17-11.07.53:189][801]LogEOSSDK: LogEOS: ScheduleNextSDKConfigDataUpdate - Time: 2088.730469, Update Interval: 302.248596
+[2025.12.17-11.08.05:506][ 84]Cmd: TRANSACTION UNDO
+[2025.12.17-11.08.05:506][ 84]LogEditorTransaction: Undo 点击元素
+[2025.12.17-11.08.05:815][ 99]Cmd: TRANSACTION UNDO
+[2025.12.17-11.08.05:815][ 99]LogEditorTransaction: Undo 编辑导入Lod
+[2025.12.17-11.08.41:151][139]LogStreaming: Display: FlushAsyncLoading(520): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.17-11.08.41:200][139]LogInterchangeEngine: Display: Interchange start importing source [F:/毕设项目/example/model/aaamodel.fbx]
+[2025.12.17-11.08.43:030][139]LogSlate: Window '导入内容' being destroyed
+[2025.12.17-11.08.43:080][139]LogInterchangeEngine: [等待处理] 正在导入
+[2025.12.17-11.08.43:113][140]LogStreaming: Display: FlushAsyncLoading(521): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.17-11.08.43:511][159]LogStreaming: Display: FlushAsyncLoading(522): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.17-11.08.43:531][160]LogStreaming: Display: FlushAsyncLoading(523): 1 QueuedPackages, 0 AsyncPackages
+[2025.12.17-11.08.43:593][162]LogStaticMesh: Display: 正在构建静态网格体aaamodel（所需内存估计：0.03414MB）…
+[2025.12.17-11.08.43:594][162]LogStaticMesh: Built static mesh [0.00s] /Game/Waveborne_The_Sacred_Threshold/ww/text/aaamodel.aaamodel
+[2025.12.17-11.08.43:602][162]LogTexture: Display: 正在构建纹理：/Game/Waveborne_The_Sacred_Threshold/ww/text/微信图片_20251217113045_519_370.微信图片_20251217113045_519_370 （TFO_AutoDXT, 4096x4096 x1x1x1）（预计所需内存：1120.999983 MB），编码速度：Fast
+[2025.12.17-11.08.43:735][165]LogTexture: Display: 正在等待纹理就绪0/1（/Game/Waveborne_The_Sacred_Threshold/ww/text/微信图片_20251217113045_519_370）……
+[2025.12.17-11.08.43:832][165]LogInterchangeEngine: Display: Interchange import completed [F:/毕设项目/example/model/aaamodel.fbx]
+[2025.12.17-11.08.43:832][165]Interchange: Warning: [ : '', Texture2D] 微信图片_20251217113045_519_370被同时用作不兼容的Color和Scalar。
+[2025.12.17-11.08.43:832][165]Interchange: Warning: [F:/毕设项目/example/model/aaamodel.fbx : 'aaamodel', StaticMesh] 在FBX文件中未找到这个网格体“Mesh”的平滑组信息。在导出文件之前，请确保在FBX导出器中启用”导出平滑组”选项。
+[2025.12.17-11.08.43:867][165]LogInterchangeEngine: [等待处理] 正在导入 - Operation completed.
+[2025.12.17-11.08.43:867][165]LogInterchangeEngine: [成功] 导入完成
+[2025.12.17-11.08.45:455][250]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Waveborne_The_Sacred_Threshold/ww/text/aaamodel.aaamodel
+[2025.12.17-11.08.45:455][250]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Waveborne_The_Sacred_Threshold/ww/text/aaamodel.aaamodel
+[2025.12.17-11.08.45:455][250]LogActorFactory: Actor Factory spawned StaticMesh /Game/Waveborne_The_Sacred_Threshold/ww/text/aaamodel.aaamodel as actor: StaticMeshActor /Temp/Untitled_1.Untitled_1:PersistentLevel.StaticMeshActor_3
+[2025.12.17-11.08.45:705][264]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2025.12.17-11.08.45:707][264]LogEditorActor: Deleted 0 Actors (0.014 secs)
+[2025.12.17-11.08.45:713][264]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Waveborne_The_Sacred_Threshold/ww/text/aaamodel.aaamodel
+[2025.12.17-11.08.45:713][264]LogActorFactory: Actor Factory attempting to spawn StaticMesh /Game/Waveborne_The_Sacred_Threshold/ww/text/aaamodel.aaamodel
+[2025.12.17-11.08.45:714][264]LogActorFactory: Actor Factory spawned StaticMesh /Game/Waveborne_The_Sacred_Threshold/ww/text/aaamodel.aaamodel as actor: StaticMeshActor /Temp/Untitled_1.Untitled_1:PersistentLevel.StaticMeshActor_UAID_E89C25CECA4487AC02_1355958890
+[2025.12.17-11.08.55:653][855]Cmd: DELETE
+[2025.12.17-11.08.55:653][855]Cmd: ACTOR DELETE
+[2025.12.17-11.08.55:656][855]LogEditorActor: Deleted Actor: StaticMeshActor
+[2025.12.17-11.08.55:665][855]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2025.12.17-11.08.55:666][855]LogEditorActor: Deleted 1 Actors (0.012 secs)
